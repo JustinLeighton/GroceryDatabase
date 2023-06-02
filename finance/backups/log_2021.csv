@@ -1,0 +1,1537 @@
+Source,Date,Amount,Description,Category
+Expense,2021-01-01,249.00,Baby sleep site,Health/Medical
+Expense,2021-01-01,178.63,Federal Income Tax,Tax
+Expense,2021-01-01,168.87,Social Security Tax,Tax
+Expense,2021-01-01,39.49,Medicare Tax,Tax
+Expense,2021-01-01,110.00,MN State Income Tax,Tax
+Expense,2021-01-01,153.85,401k,Savings
+Expense,2021-01-01,11.85,Dental Insurance,Health/Medical
+Expense,2021-01-01,220.00,HSA,Health/Medical
+Expense,2021-01-01,122.18,Health Insurance,Health/Medical
+Expense,2021-01-01,-1831.50,Tuition Reimbursement,Debt
+Expense,2021-01-01,2028.86,Mortgage,Home
+Expense,2021-01-01,2831.50,Great Lakes Loans,Debt
+Expense,2021-01-01,138.17,State Farm Insurance,Transportation
+Expense,2021-01-01,130.77,Xcel Energy,Utilities
+Expense,2021-01-01,65.00,Centurylink Internet,Utilities
+Expense,2021-01-01,64.17,Grove Collaborative,Personal
+Expense,2021-01-01,103.95,Amazon,Recreation
+Expense,2021-01-02,25.31,Arbys,Food
+Expense,2021-01-02,-680.00,Jenna Rent,Home
+Expense,2021-01-03,14.96,AWS,Recreation
+Expense,2021-01-03,81.71,Target,Personal
+Expense,2021-01-03,245.12,Target,Personal
+Expense,2021-01-04,50.00,St. Thomas,Charity
+Expense,2021-01-04,101.35,Centerpoint Energy,Utilities
+Expense,2021-01-04,156.08,Target,Food
+Expense,2021-01-04,7.52,Raising Canes,Food
+Expense,2021-01-05,-94.09,Jenna Utilities,Utilities
+Expense,2021-01-05,16.50,BWS Subscription,Utilities
+Expense,2021-01-06,86.01,B&H Photo,Recreation
+Expense,2021-01-07,25.79,Pizza Hut,Food
+Expense,2021-01-08,16.96,Social Security Tax,Tax
+Expense,2021-01-08,3.97,Medicare Tax,Tax
+Expense,2021-01-08,34.71,Target,Personal
+Expense,2021-01-09,8.16,Target,Food
+Expense,2021-01-09,210.65,Target,Food
+Expense,2021-01-11,50.00,St. Thomas,Charity
+Expense,2021-01-11,7.80,Chipotle,Food
+Expense,2021-01-11,357.51,Target,Personal
+Expense,2021-01-11,13.57,Target,Food
+Expense,2021-01-11,19.32,Target,Personal
+Expense,2021-01-12,5.81,Amazon,Recreation
+Expense,2021-01-12,13.78,Amazon,Recreation
+Expense,2021-01-12,8.25,White Castle,Food
+Expense,2021-01-13,29.57,Doordash,Food
+Expense,2021-01-15,19.41,Federal Income Tax,Tax
+Expense,2021-01-15,166.88,Social Security Tax,Tax
+Expense,2021-01-15,39.03,Medicare Tax,Tax
+Expense,2021-01-15,75.00,MN State Income Tax,Tax
+Expense,2021-01-15,153.85,401k,Savings
+Expense,2021-01-15,11.85,Dental Insurance,Health/Medical
+Expense,2021-01-15,250.00,HSA,Health/Medical
+Expense,2021-01-15,124.51,Health Insurance,Health/Medical
+Expense,2021-01-15,10.74,Adobe Photoshop,Recreation
+Expense,2021-01-15,109.90,Maven Thread,Personal
+Expense,2021-01-16,25.79,Pizza Hut,Food
+Expense,2021-01-16,291.05,Target,Food
+Expense,2021-01-17,50.00,CFF,Charity
+Expense,2021-01-18,50.00,St. Thomas,Charity
+Expense,2021-01-18,47.49,Latched Mama,Personal
+Expense,2021-01-18,0.99,Icloud,Recreation
+Expense,2021-01-18,7.29,Chick-fil-A,Food
+Expense,2021-01-19,13.97,Amazon Prime,Recreation
+Expense,2021-01-19,7.53,Disney Plus,Recreation
+Expense,2021-01-19,20.00,Arbor Day Foundation,Charity
+Expense,2021-01-19,4.29,Apple,Recreation
+Expense,2021-01-19,117.43,Target,Personal
+Expense,2021-01-19,15.04,Netflix,Recreation
+Expense,2021-01-20,12.89,Hulu,Recreation
+Expense,2021-01-20,7.52,Raising Canes,Food
+Expense,2021-01-21,7.52,Taco Bell,Food
+Expense,2021-01-21,45.63,Target,Food
+Expense,2021-01-22,45.78,Federal Income Tax,Tax
+Expense,2021-01-22,57.47,Social Security Tax,Tax
+Expense,2021-01-22,13.44,Medicare Tax,Tax
+Expense,2021-01-22,24.90,MN State Income Tax,Tax
+Expense,2021-01-24,7.53,Sephora,Recreation
+Expense,2021-01-24,7.99,Minecraft Realm,Recreation
+Expense,2021-01-25,50.00,St. Thomas,Charity
+Expense,2021-01-25,7.99,Minecraft Realm,Recreation
+Expense,2021-01-25,0.99,Icloud,Recreation
+Expense,2021-01-25,59.32,Target,Personal
+Expense,2021-01-26,27.14,Waste Management,Utilities
+Expense,2021-01-26,215.00,National Camera,Recreation
+Expense,2021-01-27,32.17,Steam,Recreation
+Expense,2021-01-27,44.77,Doordash,Food
+Expense,2021-01-28,160.27,Target,Food
+Expense,2021-01-28,8.16,Target,Food
+Expense,2021-01-29,173.25,Federal Income Tax,Tax
+Expense,2021-01-29,166.89,Social Security Tax,Tax
+Expense,2021-01-29,39.03,Medicare Tax,Tax
+Expense,2021-01-29,119.00,MN State Income Tax,Tax
+Expense,2021-01-29,153.85,401k,Savings
+Expense,2021-01-29,250.00,HSA,Health/Medical
+Expense,2021-01-29,11.85,Dental Insurance,Health/Medical
+Expense,2021-01-29,124.51,Health Insurance,Health/Medical
+Expense,2021-01-29,138.71,Aptive Environmental,Personal
+Expense,2021-01-30,7.52,Raising Canes,Food
+Expense,2021-01-30,47.89,Target,Personal
+Expense,2021-01-31,45.12,Pizza Hut,Food
+Expense,2021-01-31,5.32,Barnes and Noble,Recreation
+Expense,2021-01-31,8.46,Burger King,Food
+Expense,2021-02-01,16.50,BWS Subscription,Utilities
+Expense,2021-02-01,50.00,St. Thomas,Charity
+Expense,2021-02-01,37.54,Grove Collaborative,Personal
+Expense,2021-02-01,2028.86,Mortgage,Home
+Expense,2021-02-02,138.17,State Farm Insurance,Transportation
+Expense,2021-02-02,65.00,Centurylink Internet,Utilities
+Expense,2021-02-02,109.31,Xcel Energy,Utilities
+Expense,2021-02-02,49.44,Target,Personal
+Expense,2021-02-04,18.27,Itunes,Recreation
+Expense,2021-02-04,63.73,Burts Bees,Personal
+Expense,2021-02-04,185.39,Target,Food
+Expense,2021-02-05,45.08,Federal Income Tax,Tax
+Expense,2021-02-05,57.04,Social Security Tax,Tax
+Expense,2021-02-05,13.34,Medicare Tax,Tax
+Expense,2021-02-05,24.53,MN State Income Tax,Tax
+Expense,2021-02-05,44.31,Rusty Taco,Food
+Expense,2021-02-07,117.70,Centerpoint Energy,Utilities
+Expense,2021-02-07,-680.00,Jenna Rent,Home
+Expense,2021-02-07,-136.63,Jenna Utilities,Utilities
+Expense,2021-02-07,122.01,City of Maple Grove,Utilities
+Expense,2021-02-07,158.00,Minchkin,Personal
+Expense,2021-02-07,39.31,Target,Personal
+Expense,2021-02-07,63.06,Target,Food
+Expense,2021-02-08,7.95,Raising Canes,Food
+Expense,2021-02-09,-2948.50,St. Thomas University,Debt
+Expense,2021-02-09,21.44,Steam,Recreation
+Expense,2021-02-09,220.39,Target,Food
+Expense,2021-02-10,25.08,Jimmy Johns,Food
+Expense,2021-02-10,7.80,Chipotle,Food
+Expense,2021-02-11,35.74,Target,Personal
+Expense,2021-02-11,20.41,Target,Personal
+Expense,2021-02-12,173.25,Federal Income Tax,Tax
+Expense,2021-02-12,166.89,Social Security Tax,Tax
+Expense,2021-02-12,39.03,Medicare Tax,Tax
+Expense,2021-02-12,119.00,MN State Income Tax,Tax
+Expense,2021-02-12,153.85,401k,Savings
+Expense,2021-02-12,250.00,HSA,Health/Medical
+Expense,2021-02-12,11.85,Dental Insurance,Health/Medical
+Expense,2021-02-12,124.51,Health Insurance,Health/Medical
+Expense,2021-02-12,6.44,Funimation,Recreation
+Expense,2021-02-12,45.96,Target,Food
+Expense,2021-02-14,8.16,Target,Food
+Expense,2021-02-14,187.21,Target,Personal
+Expense,2021-02-15,10.74,Adobe Photoshop,Recreation
+Expense,2021-02-15,7.95,Raising Canes,Food
+Expense,2021-02-15,42.50,Gas,Transportation
+Expense,2021-02-16,50.00,St. Thomas,Charity
+Expense,2021-02-17,15.04,Netflix,Recreation
+Expense,2021-02-17,50.00,CFF,Charity
+Expense,2021-02-18,0.99,Icloud,Recreation
+Expense,2021-02-18,25.00,AuviQ,Health/Medical
+Expense,2021-02-18,78.29,Rusty Taco,Food
+Expense,2021-02-19,61.63,Federal Income Tax,Tax
+Expense,2021-02-19,67.30,Social Security Tax,Tax
+Expense,2021-02-19,15.74,Medicare Tax,Tax
+Expense,2021-02-19,33.38,MN State Income Tax,Tax
+Expense,2021-02-19,13.97,Amazon Prime,Recreation
+Expense,2021-02-19,7.53,Disney Plus,Recreation
+Expense,2021-02-20,12.89,Hulu,Recreation
+Expense,2021-02-20,23.63,Home Depot,Personal
+Expense,2021-02-21,198.09,Gap,Personal
+Expense,2021-02-21,50.63,Jimmy Johns,Food
+Expense,2021-02-21,164.83,Target,Personal
+Expense,2021-02-21,15.00,Target,Personal
+Expense,2021-02-21,164.59,Target,Food
+Expense,2021-02-22,50.00,St. Thomas,Charity
+Expense,2021-02-22,7.95,Raising Canes,Food
+Expense,2021-02-22,18.99,Target,Personal
+Expense,2021-02-23,27.34,Waste Management,Utilities
+Expense,2021-02-23,-42.30,Amazon,Recreation
+Expense,2021-02-24,3358.67,Great Lakes Loans,Debt
+Expense,2021-02-25,0.99,Icloud,Recreation
+Expense,2021-02-26,173.25,Federal Income Tax,Tax
+Expense,2021-02-26,166.89,Social Security Tax,Tax
+Expense,2021-02-26,39.03,Medicare Tax,Tax
+Expense,2021-02-26,119.00,MN State Income Tax,Tax
+Expense,2021-02-26,153.85,401k,Savings
+Expense,2021-02-26,250.00,HSA,Health/Medical
+Expense,2021-02-26,11.85,Dental Insurance,Health/Medical
+Expense,2021-02-26,124.51,Health Insurance,Health/Medical
+Expense,2021-02-26,141.81,Target,Food
+Expense,2021-02-26,21.73,Target,Personal
+Expense,2021-02-27,25.79,Pizza Hut,Food
+Expense,2021-02-27,8.70,Culvers,Food
+Expense,2021-02-27,73.84,Target,Personal
+Expense,2021-02-27,23.74,Target,Personal
+Expense,2021-02-28,25.00,Kyoto Sushi,Food
+Expense,2021-02-28,26.41,Target,Food
+Expense,2021-02-28,31.15,Adjustment,Other
+Expense,2021-03-01,70.52,Nested Bean,Personal
+Expense,2021-03-01,16.50,BWS Subscription,Utilities
+Expense,2021-03-01,50.00,St Thomas,Charity
+Expense,2021-03-01,2028.86,Mortgage,Home
+Expense,2021-03-01,138.17,State Farm Insurance,Transportation
+Expense,2021-03-01,-680.00,Jenna Rent,Home
+Expense,2021-03-02,65.17,Target,Food
+Expense,2021-03-03,50.17,Grove Collaborative,Personal
+Expense,2021-03-03,39.40,Target,Personal
+Expense,2021-03-04,494.60,Mockingbird,Personal
+Expense,2021-03-04,37.92,Rusty Taco,Food
+Expense,2021-03-04,43.02,Ryan and Rose,Personal
+Expense,2021-03-04,7.95,Raising Canes,Food
+Expense,2021-03-04,77.86,Target,Food
+Expense,2021-03-05,430.09,Wayfair,Home
+Expense,2021-03-05,3507.00,BWS Water Heater,Home
+Expense,2021-03-05,1000.00,Team Howsman,Charity
+Expense,2021-03-05,35.13,Federal Income Tax,Tax
+Expense,2021-03-05,50.87,Social Security Tax,Tax
+Expense,2021-03-05,11.89,Medicare Tax,Tax
+Expense,2021-03-05,19.20,MN State Income Tax,Tax
+Expense,2021-03-05,3086.78,Federal Income Tax,Tax
+Expense,2021-03-05,869.91,Social Security Tax,Tax
+Expense,2021-03-05,203.44,Medicare Tax,Tax
+Expense,2021-03-05,877.00,MN State Income Tax,Tax
+Expense,2021-03-05,7.80,Chipotle,Food
+Expense,2021-03-05,68.60,Target,Personal
+Expense,2021-03-06,13.94,Arbys,Food
+Expense,2021-03-07,116.34,Target,Food
+Expense,2021-03-08,50.00,St. Thomas,Charity
+Expense,2021-03-08,37.39,Pizza Hut,Food
+Expense,2021-03-08,6.00,Parking,Transportation
+Expense,2021-03-09,25.98,Called Surf,Personal
+Expense,2021-03-10,43.90,Gap,Personal
+Expense,2021-03-11,108.54,Target,Food
+Expense,2021-03-11,67.66,Gap,Personal
+Expense,2021-03-12,173.25,Federal Income Tax,Tax
+Expense,2021-03-12,166.89,Social Security Tax,Tax
+Expense,2021-03-12,39.03,Medicare Tax,Tax
+Expense,2021-03-12,119.00,MN State Income Tax,Tax
+Expense,2021-03-12,153.85,401k,Savings
+Expense,2021-03-12,250.00,HSA,Health/Medical
+Expense,2021-03-12,11.85,Dental Insurance,Health/Medical
+Expense,2021-03-12,124.51,Health Insurance,Health/Medical
+Expense,2021-03-12,2000.00,Nelnet,Debt
+Expense,2021-03-12,32.24,Ubisoft,Recreation
+Expense,2021-03-12,6.44,Funimation,Recreation
+Expense,2021-03-12,132.37,Target,Personal
+Expense,2021-03-12,8.16,Target,Personal
+Expense,2021-03-12,6.53,Target,Personal
+Expense,2021-03-12,23.42,Target,Personal
+Expense,2021-03-13,7.95,Raising Canes,Food
+Expense,2021-03-13,58.62,Target,Personal
+Expense,2021-03-14,22.05,Munchkin,Personal
+Expense,2021-03-14,207.33,Target,Food
+Expense,2021-03-15,50.00,CFF,Charity
+Expense,2021-03-15,50.00,St. Thomas,Charity
+Expense,2021-03-15,64.98,WhiteCoGadgets,Other
+Expense,2021-03-15,10.74,Adobe Photoshop,Recreation
+Expense,2021-03-16,52.93,Target,Personal
+Expense,2021-03-17,99.87,Etsy,Recreation
+Expense,2021-03-17,5.37,Vudu,Other
+Expense,2021-03-17,0.13,Brooklyn,Other
+Expense,2021-03-18,0.99,Icloud,Recreation
+Expense,2021-03-18,6.44,Vudu,Other
+Expense,2021-03-18,175.42,Target,Food
+Expense,2021-03-18,40.82,Target,Personal
+Expense,2021-03-19,44.53,Federal Income Tax,Tax
+Expense,2021-03-19,56.70,Social Security Tax,Tax
+Expense,2021-03-19,13.26,Medicare Tax,Tax
+Expense,2021-03-19,24.23,MN State Income Tax,Tax
+Expense,2021-03-19,13.97,Amazon Prime,Recreation
+Expense,2021-03-19,42.95,Lowes,Personal
+Expense,2021-03-19,9.49,Target,Personal
+Expense,2021-03-19,78.78,Target,Personal
+Expense,2021-03-20,7.53,Disney Plus,Recreation
+Expense,2021-03-20,5.38,Taco Bell,Food
+Expense,2021-03-20,12.89,Hulu,Recreation
+Expense,2021-03-21,25.00,Kyoto Sushi,Food
+Expense,2021-03-21,113.03,Amazon,Recreation
+Expense,2021-03-21,55.18,Target,Food
+Expense,2021-03-22,46.59,Gas,Transportation
+Expense,2021-03-22,27.55,Waste Management,Utilities
+Expense,2021-03-22,50.00,St. Thomas,Charity
+Expense,2021-03-22,214.35,Target,Food
+Expense,2021-03-22,76.04,Target,Personal
+Expense,2021-03-23,65.00,Centurylink Internet,Utilities
+Expense,2021-03-23,27.55,Waste Management,Utilities
+Expense,2021-03-24,1852.50,Amazon,Recreation
+Expense,2021-03-25,0.99,Icloud,Recreation
+Expense,2021-03-26,173.25,Federal Income Tax,Tax
+Expense,2021-03-26,166.89,Social Security Tax,Tax
+Expense,2021-03-26,39.03,Medicare Tax,Tax
+Expense,2021-03-26,119.00,MN State Income Tax,Tax
+Expense,2021-03-26,153.85,401k,Savings
+Expense,2021-03-26,250.00,HSA,Health/Medical
+Expense,2021-03-26,11.85,Dental Insurance,Health/Medical
+Expense,2021-03-26,124.51,Health Insurance,Health/Medical
+Expense,2021-03-26,7.99,Minecraft Realm,Recreation
+Expense,2021-03-26,127.98,Immersive Van Gogh,Recreation
+Expense,2021-03-27,37.39,Pizza Hut,Food
+Expense,2021-03-27,273.54,Target,Food
+Expense,2021-03-28,185.95,Target,Personal
+Expense,2021-03-28,24.69,Target,Personal
+Expense,2021-03-29,50.00,St. Thomas,Charity
+Expense,2021-03-29,36.55,Doordash,Food
+Expense,2021-03-29,85.48,Latched Mama,Personal
+Expense,2021-03-29,45.98,Mama Bear Virtual,Recreation
+Expense,2021-03-30,22.95,Jimmy Johns,Food
+Expense,2021-03-30,81.14,Gap,Personal
+Expense,2021-03-31,199.79,Amazon,Recreation
+Expense,2021-03-31,238.39,Target,Food
+Expense,2021-04-01,198.62,Xcel Energy,Utilities
+Expense,2021-04-01,142.62,Centerpoint Energy,Utilities
+Expense,2021-04-01,16.50,BWS Subscription,Utilities
+Expense,2021-04-01,38.68,Amazon,Recreation
+Expense,2021-04-01,134.34,State Farm Insurance,Transportation
+Expense,2021-04-01,2028.86,Mortgage,Home
+Expense,2021-04-01,-680.00,Jenna Rent,Home
+Expense,2021-04-02,59.23,Federal Income Tax,Tax
+Expense,2021-04-02,65.82,Social Security Tax,Tax
+Expense,2021-04-02,15.40,Medicare Tax,Tax
+Expense,2021-04-02,32.10,MN State Income Tax,Tax
+Expense,2021-04-03,6.07,Target,Personal
+Expense,2021-04-03,67.78,Grove Collaborative,Personal
+Expense,2021-04-05,18.22,Home Depot,Personal
+Expense,2021-04-05,66.19,Doordash,Food
+Expense,2021-04-05,32.23,Amazon,Recreation
+Expense,2021-04-05,7.69,Walgreens,Recreation
+Expense,2021-04-05,85.64,Maven Thread,Recreation
+Expense,2021-04-05,50.00,St. Thomas,Charity
+Expense,2021-04-06,196.53,Target,Food
+Expense,2021-04-06,18.40,Gap,Personal
+Expense,2021-04-07,7.80,Chipotle,Food
+Expense,2021-04-08,102.40,Gap,Personal
+Expense,2021-04-08,70.00,Etsy,Recreation
+Expense,2021-04-08,35.42,Rusty Raco,Food
+Expense,2021-04-08,10.16,Steam,Recreation
+Expense,2021-04-08,21.44,Steam,Recreation
+Expense,2021-04-09,133.43,City of Maple Grove,Utilities
+Expense,2021-04-09,179.64,Federal Income Tax,Tax
+Expense,2021-04-09,170.35,Social Security Tax,Tax
+Expense,2021-04-09,39.84,Medicare Tax,Tax
+Expense,2021-04-09,123.00,MN State Income Tax,Tax
+Expense,2021-04-09,156.65,401k,Savings
+Expense,2021-04-09,250.00,HSA,Health/Medical
+Expense,2021-04-09,11.85,Dental Insurance,Health/Medical
+Expense,2021-04-09,124.51,Health Insurance,Health/Medical
+Expense,2021-04-10,354.67,Target,Food
+Expense,2021-04-10,29.36,BTOSINTEGRA,Recreation
+Expense,2021-04-10,49.59,Amazon,Recreation
+Expense,2021-04-12,6.44,Funimation,Recreation
+Expense,2021-04-12,15.00,AtlanticLog,Recreation
+Expense,2021-04-12,50.00,St. Thomas,Charity
+Expense,2021-04-13,34.38,Amazon,Recreation
+Expense,2021-04-14,-171.00,Delta Dental,Health/Medical
+Expense,2021-04-14,5.66,Caribou Coffee,Food
+Expense,2021-04-14,171.00,Dr. Keller,Health/Medical
+Expense,2021-04-14,7.52,Amazon,Recreation
+Expense,2021-04-14,222.57,Ikea,Recreation
+Expense,2021-04-14,6.75,Little Way,Recreation
+Expense,2021-04-15,83.06,Centerpoint Energy,Utilities
+Expense,2021-04-15,65.00,Centerpoint Energy,Utilities
+Expense,2021-04-15,-245.13,Jenna Utilities,Utilities
+Expense,2021-04-15,130.97,Target,Personal
+Expense,2021-04-15,36.20,Doordash,Food
+Expense,2021-04-15,10.74,Adobe Photoshop,Recreation
+Expense,2021-04-16,46.53,Federal Income Tax,Tax
+Expense,2021-04-16,57.93,Social Security Tax,Tax
+Expense,2021-04-16,13.55,Medicare Tax,Tax
+Expense,2021-04-16,32.10,MN State Income Tax,Tax
+Expense,2021-04-16,154.79,Target,Food
+Expense,2021-04-16,50.00,CFF,Charity
+Expense,2021-04-16,46.43,Pizza Hut,Food
+Expense,2021-04-17,7.95,Raising Canes,Food
+Expense,2021-04-18,88.74,Target,Personal
+Expense,2021-04-18,0.99,Icloud,Recreation
+Expense,2021-04-18,18.27,Itunes,Recreation
+Expense,2021-04-19,30.13,Target,Personal
+Expense,2021-04-19,49.07,Gas,Transportation
+Expense,2021-04-19,13.97,Amazon Prime,Recreation
+Expense,2021-04-19,50.00,St. Thomas,Charity
+Expense,2021-04-19,40.00,Buffalo Wild Wings,Food
+Expense,2021-04-20,74.80,Target,Personal
+Expense,2021-04-20,25.00,Kyoto Sushi,Food
+Expense,2021-04-20,8.61,Disney Plus,Recreation
+Expense,2021-04-20,12.89,Hulu,Recreation
+Expense,2021-04-20,39.54,Olive Garden,Food
+Expense,2021-04-21,33.78,Target,Personal
+Expense,2021-04-21,6.00,White Castle,Food
+Expense,2021-04-21,59.07,Joann Fabric,Recreation
+Expense,2021-04-21,9.14,Chick-fil-A,Food
+Expense,2021-04-22,1000.00,Nelnet,Debt
+Expense,2021-04-22,109.32,Target,Personal
+Expense,2021-04-22,13.83,Wendys,Food
+Expense,2021-04-22,171.00,Dr. Keller,Health/Medical
+Expense,2021-04-22,21.10,UPSP,Recreation
+Expense,2021-04-23,179.64,Federal Income Tax,Tax
+Expense,2021-04-23,170.35,Social Security Tax,Tax
+Expense,2021-04-23,39.84,Medicare Tax,Tax
+Expense,2021-04-23,123.00,MN State Income Tax,Tax
+Expense,2021-04-23,156.65,401k,Savings
+Expense,2021-04-23,250.00,HSA,Health/Medical
+Expense,2021-04-23,11.85,Dental Insurance,Health/Medical
+Expense,2021-04-23,124.51,Health Insurance,Health/Medical
+Expense,2021-04-23,21.44,Steam,Recreation
+Expense,2021-04-24,0.99,Icloud,Recreation
+Expense,2021-04-24,46.18,Doordash,Food
+Expense,2021-04-24,54.00,Etsy,Recreation
+Expense,2021-04-24,393.46,Leaflet Missal,Recreation
+Expense,2021-04-24,137.84,Home Depot,Recreation
+Expense,2021-04-25,391.91,Target,Food
+Expense,2021-04-25,28.21,Waste Management,Utilities
+Expense,2021-04-26,12.91,Etsy,Recreation
+Expense,2021-04-26,50.00,St. Thomas,Charity
+Expense,2021-04-27,19.63,Target,Personal
+Expense,2021-04-27,8.36,Etsy,Recreation
+Expense,2021-04-28,296.66,CatholicCo,Recreation
+Expense,2021-04-29,194.00,Dr. Keller,Health/Medical
+Expense,2021-04-30,51.58,Federal Income Tax,Tax
+Expense,2021-04-30,61.07,Social Security Tax,Tax
+Expense,2021-04-30,14.28,Medicare Tax,Tax
+Expense,2021-04-30,28.01,MN State Income Tax,Tax
+Expense,2021-04-30,139.50,Flower Girl Dress,Recreation
+Expense,2021-04-30,7.80,Chipotle,Food
+Expense,2021-04-30,151.64,Target,Food
+Expense,2021-04-30,12.03,Adjustment,Other
+Expense,2021-04-30,-171.00,Delta Dental,Health/Medical
+Expense,2021-04-30,-128.80,Delta Dental,Health/Medical
+Expense,2021-05-01,134.34,State Farm Insurance,Transportation
+Expense,2021-05-01,65.00,Centurylink Internet,Utilities
+Expense,2021-05-01,2028.86,Mortgage,Home
+Expense,2021-05-01,1000.00,Nelnet,Debt
+Expense,2021-05-01,-680.00,Jenna Rent,Home
+Expense,2021-05-01,1.27,Parking,Transportation
+Expense,2021-05-02,45.17,Betabrand,Recreation
+Expense,2021-05-03,16.50,BWS subscription,Utilities
+Expense,2021-05-03,50.00,St. Thomas,Charity
+Expense,2021-05-03,28.39,Noodles and Company,Food
+Expense,2021-05-03,21.39,Chick-fil-A,Food
+Expense,2021-05-03,45.18,Gas,Transportation
+Expense,2021-05-04,58.79,Grove Collaborative,Personal
+Expense,2021-05-04,7.80,Chipotle,Food
+Expense,2021-05-04,141.98,Target,Food
+Expense,2021-05-05,56.70,Gap,Personal
+Expense,2021-05-06,45.98,Run Signup,Recreation
+Expense,2021-05-06,5.38,Gap,Personal
+Expense,2021-05-06,83.73,Gap,Personal
+Expense,2021-05-07,179.64,Federal Income Tax,Tax
+Expense,2021-05-07,170.35,Social Security Tax,Tax
+Expense,2021-05-07,39.84,Medicare Tax,Tax
+Expense,2021-05-07,123.00,MN State Income Tax,Tax
+Expense,2021-05-07,156.65,401k,Savings
+Expense,2021-05-07,250.00,HSA,Health/Medical
+Expense,2021-05-07,11.85,Dental Insurance,Health/Medical
+Expense,2021-05-07,124.51,Health Insurance,Health/Medical
+Expense,2021-05-07,23.95,Maven Thread,Recreation
+Expense,2021-05-07,26.19,JCPenney,Personal
+Expense,2021-05-07,73.30,Doordash,Food
+Expense,2021-05-09,371.67,Target,Food
+Expense,2021-05-09,23.86,Gap,Personal
+Expense,2021-05-10,50.00,St. Thomas,Charity
+Expense,2021-05-10,6.21,Caribou Coffee,Food
+Expense,2021-05-10,173.90,Home Depot,Recreation
+Expense,2021-05-10,94.55,Lynde Greenhouse,Recreation
+Expense,2021-05-10,14.35,Fairs Nursery,Recreation
+Expense,2021-05-10,18.98,Arbys,Food
+Expense,2021-05-11,39.56,St. Thomas University,Recreation
+Expense,2021-05-11,31.76,Target,Personal
+Expense,2021-05-11,5.96,Target,Health/Medical
+Expense,2021-05-11,23.88,Target,Personal
+Expense,2021-05-12,7.80,Chipotle,Food
+Expense,2021-05-13,630.00,Kidspeak,Health/Medical
+Expense,2021-05-13,108.66,Target,Personal
+Expense,2021-05-14,50.68,Federal Income Tax,Tax
+Expense,2021-05-14,60.52,Social Security Tax,Tax
+Expense,2021-05-14,14.15,Medicare Tax,Tax
+Expense,2021-05-14,27.52,MN State Income Tax,Tax
+Expense,2021-05-14,60.08,Ave Maria Press,Recreation
+Expense,2021-05-15,26.10,Pizza Hut,Food
+Expense,2021-05-15,10.74,Adobe Photoshop,Recreation
+Expense,2021-05-16,50.00,CFF,Charity
+Expense,2021-05-16,202.43,Target,Food
+Expense,2021-05-17,50.00,St. Thomas,Charity
+Expense,2021-05-17,50.00,Kyoto Sushi,Food
+Expense,2021-05-17,7.08,Arbys,Food
+Expense,2021-05-17,15.04,Netflix,Recreation
+Expense,2021-05-17,39.56,University of St. Thomas,Personal
+Expense,2021-05-18,0.99,Icloud,Recreation
+Expense,2021-05-18,7.52,Discovery Plus,Recreation
+Expense,2021-05-19,13.97,Amazon Prime,Recreation
+Expense,2021-05-19,164.45,Target,Food
+Expense,2021-05-19,27.55,Target,Personal
+Expense,2021-05-20,8.61,Disney Plus,Recreation
+Expense,2021-05-20,12.89,Hulu,Recreation
+Expense,2021-05-21,179.64,Federal Income Tax,Tax
+Expense,2021-05-21,170.35,Social Security Tax,Tax
+Expense,2021-05-21,39.84,Medicare Tax,Tax
+Expense,2021-05-21,123.00,MN State Income Tax,Tax
+Expense,2021-05-21,156.65,401k,Savings
+Expense,2021-05-21,250.00,HSA,Health/Medical
+Expense,2021-05-21,11.85,Dental Insurance,Health/Medical
+Expense,2021-05-21,124.51,Health Insurance,Health/Medical
+Expense,2021-05-21,22.98,FreeTaxUSA,Personal
+Expense,2021-05-22,160.00,HOM Furniture,Home
+Expense,2021-05-22,32.24,Dicks Sporting Goods,Personal
+Expense,2021-05-22,72.80,GAP,Personal
+Expense,2021-05-23,311.22,Target,Food
+Expense,2021-05-24,50.00,St. Thomas,Charity
+Expense,2021-05-24,0.99,Icloud,Recreation
+Expense,2021-05-24,23.32,Chick-fil-A,Food
+Expense,2021-05-24,132.81,Lowes,Personal
+Expense,2021-05-24,73.75,Target,Personal
+Expense,2021-05-25,20.00,CFF,Charity
+Expense,2021-05-25,31.22,Waste Management,Utilities
+Expense,2021-05-25,198.91,Amazon,Recreation
+Expense,2021-05-25,37.14,Amazon,Recreation
+Expense,2021-05-25,300.00,Julianne,Home
+Expense,2021-05-26,131.00,Kidspeak,Health/Medical
+Expense,2021-05-26,907.10,Kidspeak,Health/Medical
+Expense,2021-05-26,132.16,Barnes and Noble,Recreation
+Expense,2021-05-26,49.01,Gas,Transportation
+Expense,2021-05-26,72.55,Target,Personal
+Expense,2021-05-26,71.50,Target,Personal
+Expense,2021-05-27,7.33,Raising Canes,Food
+Expense,2021-05-27,85.55,Home Depot,Personal
+Expense,2021-05-28,37.78,Federal Income Tax,Tax
+Expense,2021-05-28,52.51,Social Security Tax,Tax
+Expense,2021-05-28,12.28,Medicare Tax,Tax
+Expense,2021-05-28,20.62,MN State Income Tax,Tax
+Expense,2021-05-28,11.15,Wendys,Food
+Expense,2021-05-29,109.14,Maven Thread,Personal
+Expense,2021-05-29,7.00,Parking,Transportation
+Expense,2021-05-29,252.79,Target,Personal
+Expense,2021-05-30,21.44,Steam,Recreation
+Expense,2021-05-31,50.00,St. Thomas,Charity
+Expense,2021-05-31,41.28,Doordash,Food
+Expense,2021-05-31,33.87,Sephora,Personal
+Expense,2021-05-31,50.00,Good Earth,Food
+Expense,2021-05-31,10.73,Dicks Sporting Goods,Personal
+Expense,2021-05-31,37.59,Home Depot,Personal
+Expense,2021-05-31,-41.39,Adjustment,Other
+Expense,2021-06-01,36.94,Pizza Hut,Food
+Expense,2021-06-01,75.32,Etsy,Food
+Expense,2021-06-01,16.50,BWS subscription,Utilities
+Expense,2021-06-01,322.56,Maple Grove Cycling,Recreation
+Expense,2021-06-01,185.37,Xcel Energy,Utilities
+Expense,2021-06-01,68.63,Centerpoint Energy,Utilities
+Expense,2021-06-02,2019.22,Mortgage,Home
+Expense,2021-06-02,134.34,State Farm Insurance,Transportation
+Expense,2021-06-02,65.00,Centurylink Internet,Utilities
+Expense,2021-06-02,1000.00,Nelnet,Debt
+Expense,2021-06-02,77.99,Grove Collaborative,Personal
+Expense,2021-06-02,365.66,Target,Food
+Expense,2021-06-03,-680.00,Venmo,Home
+Expense,2021-06-03,17.00,DMV,Recreation
+Expense,2021-06-03,17.50,DMV,Recreation
+Expense,2021-06-03,0.44,DMV,Recreation
+Expense,2021-06-03,0.42,DMV,Recreation
+Expense,2021-06-03,5.46,Starbucks,Food
+Expense,2021-06-04,47.54,Centerpoint Energy,Utilities
+Expense,2021-06-04,179.64,Federal Income Tax,Tax
+Expense,2021-06-04,170.35,Social Security Tax,Tax
+Expense,2021-06-04,39.84,Medicare Tax,Tax
+Expense,2021-06-04,123.00,MN State Income Tax,Tax
+Expense,2021-06-04,156.65,401k,Savings
+Expense,2021-06-04,250.00,HSA,Health/Medical
+Expense,2021-06-04,11.85,Dental Insurance,Health/Medical
+Expense,2021-06-04,124.51,Health Insurance,Health/Medical
+Expense,2021-06-05,4.30,Wendys,Food
+Expense,2021-06-06,57.51,Etsy,Recreation
+Expense,2021-06-06,36.00,Kyoto Sushi,Food
+Expense,2021-06-06,285.71,Target,Food
+Expense,2021-06-07,50.00,St. Thomas,Charity
+Expense,2021-06-07,9.68,Chipotle,Food
+Expense,2021-06-07,8.59,Dairy Queen,Food
+Expense,2021-06-07,20.00,Gas,Transportation
+Expense,2021-06-07,18.09,Ikea,Food
+Expense,2021-06-07,267.65,Ikea,Personal
+Expense,2021-06-07,51.06,Target,Personal
+Expense,2021-06-07,35.88,Target,Personal
+Expense,2021-06-07,202.99,Gap,Personal
+Expense,2021-06-08,-126.40,Jenna Utilities,Utilities
+Expense,2021-06-09,36.49,Grove Collaborative,Personal
+Expense,2021-06-09,21.17,Amazon,Recreation
+Expense,2021-06-09,160.30,Target,Food
+Expense,2021-06-10,12.23,Mcdonalds,Food
+Expense,2021-06-11,57.33,Federal Income Tax,Tax
+Expense,2021-06-11,64.64,Social Security Tax,Tax
+Expense,2021-06-11,15.12,Medicare Tax,Tax
+Expense,2021-06-11,31.08,MN State Income Tax,Tax
+Expense,2021-06-11,8.23,Chipotle,Food
+Expense,2021-06-11,300.08,Target,Food
+Expense,2021-06-13,37.60,Itunes,Recreation
+Expense,2021-06-13,16.12,Itunes,Recreation
+Expense,2021-06-14,50.00,St. Thomas,Charity
+Expense,2021-06-14,37.97,Doordash,Food
+Expense,2021-06-14,50.55,Gas,Transportation
+Expense,2021-06-14,11.93,Speedway,Food
+Expense,2021-06-15,-5250.00,Polaris Reimbursement,Debt
+Expense,2021-06-15,1374.98,Nelnet,Debt
+Expense,2021-06-15,3875.02,Nelnet,Debt
+Expense,2021-06-15,10.74,Adobe Photoshop,Recreation
+Expense,2021-06-15,8.23,Chipotle,Food
+Expense,2021-06-15,100.39,Target,Food
+Expense,2021-06-15,21.53,Target,Personal
+Expense,2021-06-16,50.00,CFF,Charity
+Expense,2021-06-16,97.22,Target,Personal
+Expense,2021-06-17,28.47,Etsy,Recreation
+Expense,2021-06-17,15.04,Netflix,Recreation
+Expense,2021-06-18,179.64,Federal Income Tax,Tax
+Expense,2021-06-18,170.35,Social Security Tax,Tax
+Expense,2021-06-18,39.84,Medicare Tax,Tax
+Expense,2021-06-18,123.00,MN State Income Tax,Tax
+Expense,2021-06-18,156.65,401k,Savings
+Expense,2021-06-18,250.00,HSA,Health/Medical
+Expense,2021-06-18,11.85,Dental Insurance,Health/Medical
+Expense,2021-06-18,124.51,Health Insurance,Health/Medical
+Expense,2021-06-18,-1031.39,Federal Tax Return,Tax
+Expense,2021-06-18,0.99,Icloud,Recreation
+Expense,2021-06-18,7.52,Discovery Plus,Recreation
+Expense,2021-06-18,26.11,Pizza Hut,Food
+Expense,2021-06-18,106.45,Joshuas Pest Control,Home
+Expense,2021-06-19,15.64,Blizzard,Recreation
+Expense,2021-06-19,303.37,Target,Food
+Expense,2021-06-20,12.89,Hulu,Recreation
+Expense,2021-06-20,203.45,Amazon,Recreation
+Expense,2021-06-20,8.61,Disney Plus,Recreation
+Expense,2021-06-20,68.99,Target,Personal
+Expense,2021-06-21,50.00,St. Thomas,Charity
+Expense,2021-06-21,13.97,Amazon Prime,Recreation
+Expense,2021-06-21,36.00,Rusty Taco,Food
+Expense,2021-06-22,26.92,Origin,Recreation
+Expense,2021-06-22,12.88,Red Balloon Books,Recreation
+Expense,2021-06-23,438.45,Mill at Fine Creek,Recreation
+Expense,2021-06-23,31.34,Waste Management,Utilities
+Expense,2021-06-24,22.64,Etsy,Recreation
+Expense,2021-06-24,8.23,Chipotle,Food
+Expense,2021-06-24,37.97,Doordash,Food
+Expense,2021-06-24,70.02,Target,Personal
+Expense,2021-06-25,47.43,Federal Income Tax,Tax
+Expense,2021-06-25,58.49,Social Security Tax,Tax
+Expense,2021-06-25,13.69,Medicare Tax,Tax
+Expense,2021-06-25,25.78,MN State Income Tax,Tax
+Expense,2021-06-25,1721.66,HOM Furniture,Home
+Expense,2021-06-26,8.05,Arbys,Food
+Expense,2021-06-26,0.99,Icloud,Recreation
+Expense,2021-06-26,100.60,Target,Food
+Expense,2021-06-27,34.69,Target,Personal
+Expense,2021-06-28,50.00,St. Thomas,Charity
+Expense,2021-06-28,8.59,Arbys,Food
+Expense,2021-06-28,56.78,Target,Personal
+Expense,2021-06-28,15.60,Target,Personal
+Expense,2021-06-28,50.04,Target,Personal
+Expense,2021-06-29,16.12,HBM Subscription,Recreation
+Expense,2021-06-29,8.23,Chipotle,Food
+Expense,2021-06-29,16.51,Ichiddo Ramen,Food
+Expense,2021-06-30,13.96,Amazon,Recreation
+Expense,2021-06-30,25.44,Walmart,Personal
+Expense,2021-06-30,39.19,Doordash,Food
+Expense,2021-06-30,-34.07,Adjustment,Other
+Expense,2021-07-01,16.50,BWS subscription,Utilities
+Expense,2021-07-01,40.10,Target,Personal
+Expense,2021-07-01,347.23,Target,Food
+Expense,2021-07-01,2019.22,Mortgage,Home
+Expense,2021-07-01,134.34,State Farm Insurance,Transportation
+Expense,2021-07-02,-500.00,Jenna Rent,Home
+Expense,2021-07-02,179.64,Federal Income Tax,Tax
+Expense,2021-07-02,170.35,Social Security Tax,Tax
+Expense,2021-07-02,39.84,Medicare Tax,Tax
+Expense,2021-07-02,123.00,MN State Income Tax,Tax
+Expense,2021-07-02,156.65,401k,Savings
+Expense,2021-07-02,250.00,HSA,Health/Medical
+Expense,2021-07-02,11.85,Dental Insurance,Health/Medical
+Expense,2021-07-02,124.51,Health Insurance,Health/Medical
+Expense,2021-07-03,137.31,City of Maple Grove,Utilities
+Expense,2021-07-03,17.24,Centerpoint Energy,Utilities
+Expense,2021-07-03,65.00,Centurylink Internet,Utilities
+Expense,2021-07-03,-77.03,Jenna Utilities,Utilities
+Expense,2021-07-04,72.18,Grove Collaborative,Personal
+Expense,2021-07-04,94.08,Target,Personal
+Expense,2021-07-05,50.00,St. Thomas,Charity
+Expense,2021-07-05,21.48,Itunes,Recreation
+Expense,2021-07-05,37.97,Doordash,Food
+Expense,2021-07-06,150.00,Victorias Secret,Recreation
+Expense,2021-07-06,5.38,Taco Bell,Food
+Expense,2021-07-07,3707.59,St. Thomas University,Debt
+Expense,2021-07-07,48.95,Shapermint,Personal
+Expense,2021-07-07,25.20,Chick-fil-A,Food
+Expense,2021-07-07,142.39,Target,Food
+Expense,2021-07-08,52.77,Gas,Transportation
+Expense,2021-07-08,11.47,Mcdonalds,Food
+Expense,2021-07-08,6.00,Parking,Transportation
+Expense,2021-07-08,90.40,Target,Personal
+Expense,2021-07-08,20.42,Target,Personal
+Expense,2021-07-09,20.38,Federal Income Tax,Tax
+Expense,2021-07-09,41.73,Social Security Tax,Tax
+Expense,2021-07-09,9.76,Medicare Tax,Tax
+Expense,2021-07-09,11.31,MN State Income Tax,Tax
+Expense,2021-07-09,91.92,Target,Personal
+Expense,2021-07-09,153.18,Target,Food
+Expense,2021-07-10,8.23,Chipotle,Food
+Expense,2021-07-11,9.95,Drivethru RPG,Recreation
+Expense,2021-07-12,50.00,St. Thomas,Charity
+Expense,2021-07-12,45.01,Home Depot,Personal
+Expense,2021-07-12,46.21,Lowes,Personal
+Expense,2021-07-12,93.28,Target,Personal
+Expense,2021-07-12,126.29,Home Depot,Personal
+Expense,2021-07-12,153.21,Target,Food
+Expense,2021-07-12,26.27,Target,Personal
+Expense,2021-07-13,20.00,Ichiddo Ramen,Food
+Expense,2021-07-13,18.28,Target,Personal
+Expense,2021-07-14,25.08,Jimmy Johns,Food
+Expense,2021-07-14,8.23,Chipotle,Food
+Expense,2021-07-14,186.84,Target,Food
+Expense,2021-07-15,10.74,Photoshop,Recreation
+Expense,2021-07-16,179.64,Federal Income Tax,Tax
+Expense,2021-07-16,170.35,Social Security Tax,Tax
+Expense,2021-07-16,39.84,Medicare Tax,Tax
+Expense,2021-07-16,123.00,MN State Income Tax,Tax
+Expense,2021-07-16,156.65,401k,Savings
+Expense,2021-07-16,250.00,HSA,Health/Medical
+Expense,2021-07-16,11.85,Dental Insurance,Health/Medical
+Expense,2021-07-16,124.51,Health Insurance,Health/Medical
+Expense,2021-07-16,50.00,CFF,Charity
+Expense,2021-07-16,169.36,Lowes,Personal
+Expense,2021-07-16,43.96,Jane LLC,Personal
+Expense,2021-07-16,27.08,Pizza Hut,Food
+Expense,2021-07-16,8.47,Mcdonalds,Food
+Expense,2021-07-17,169.36,Lowes,Personal
+Expense,2021-07-18,7.52,Discovery Plus,Recreation
+Expense,2021-07-18,0.99,Icloud,Recreation
+Expense,2021-07-18,213.62,Target,Food
+Expense,2021-07-19,15.04,Netflix,Recreation
+Expense,2021-07-19,50.00,St. Thomas,Charity
+Expense,2021-07-19,13.97,Amazon Prime,Recreation
+Expense,2021-07-19,43.96,Jane LLC,Recreation
+Expense,2021-07-19,19.52,Shutterfly,Recreation
+Expense,2021-07-19,23.70,Chick-fil-A,Food
+Expense,2021-07-19,35.99,JC Penney,Personal
+Expense,2021-07-19,15.04,Netflix,Recreation
+Expense,2021-07-20,12.89,Hulu,Recreation
+Expense,2021-07-20,8.61,Disney Plus,Recreation
+Expense,2021-07-20,7.18,Mcdonalds,Food
+Expense,2021-07-20,2.03,Steve's Auto World,Food
+Expense,2021-07-20,300.00,Julianne,Home
+Expense,2021-07-20,132.52,Target,Food
+Expense,2021-07-20,17.35,Target,Personal
+Expense,2021-07-21,400.00,Atlassian Jira Training,Other
+Expense,2021-07-21,36.26,Joann Fabric,Personal
+Expense,2021-07-22,107.51,Microsoft Office,Recreation
+Expense,2021-07-22,30.63,Home Depot,Personal
+Expense,2021-07-22,8.69,Wendys,Food
+Expense,2021-07-23,23.58,Federal Income Tax,Tax
+Expense,2021-07-23,43.71,Social Security Tax,Tax
+Expense,2021-07-23,10.22,Medicare Tax,Tax
+Expense,2021-07-23,13.03,MN State Income Tax,Tax
+Expense,2021-07-23,400.00,Atlassian Jira Training,Other
+Expense,2021-07-23,48.12,Gas,Transportation
+Expense,2021-07-23,53.78,JC Penney,Personal
+Expense,2021-07-24,0.99,Icloud,Recreation
+Expense,2021-07-24,22.46,Chick-fil-A,Food
+Expense,2021-07-24,127.95,Joshuas Pest Control,Personal
+Expense,2021-07-24,77.57,Target,Food
+Expense,2021-07-25,38.69,Pizza Hut,Food
+Expense,2021-07-25,520.97,Target,Personal
+Expense,2021-07-26,165.59,Xcel Energy,Utilities
+Expense,2021-07-26,9.17,Amazon,Recreation
+Expense,2021-07-26,50.00,St. Thomas,Charity
+Expense,2021-07-26,31.50,Waste Management,Utilities
+Expense,2021-07-27,2.03,Steve's Auto World,Food
+Expense,2021-07-28,6.65,Arbys,Food
+Expense,2021-07-29,16.12,HBO Max,Recreation
+Expense,2021-07-29,167.01,Target,Food
+Expense,2021-07-29,12.02,Target,Personal
+Expense,2021-07-30,179.64,Federal Income Tax,Tax
+Expense,2021-07-30,170.35,Social Security Tax,Tax
+Expense,2021-07-30,39.84,Medicare Tax,Tax
+Expense,2021-07-30,123.00,MN State Income Tax,Tax
+Expense,2021-07-30,156.65,401k,Savings
+Expense,2021-07-30,250.00,HSA,Health/Medical
+Expense,2021-07-30,11.85,Dental Insurance,Health/Medical
+Expense,2021-07-30,124.51,Health Insurance,Health/Medical
+Expense,2021-07-31,-800.00,Concur Reimbursement,Other
+Expense,2021-07-31,44.00,Origin,Recreation
+Expense,2021-07-31,6.00,Parking,Transportation
+Expense,2021-07-31,-600.00,Family Tax Credit,Tax
+Expense,2021-07-31,50.31,Target,Personal
+Expense,2021-07-31,31.97,Target,Personal
+Expense,2021-08-01,52.42,Grove Collaborative,Personal
+Expense,2021-08-01,4.24,Home Depot,Personal
+Expense,2021-08-01,2.03,Steve's Auto World,Food
+Expense,2021-08-01,11.04,Arbys,Food
+Expense,2021-08-01,7.85,Home Depot,Personal
+Expense,2021-08-01,21.47,Home Depot,Personal
+Expense,2021-08-01,59.97,Target,Personal
+Expense,2021-08-02,50.00,St. Thomas,Charity
+Expense,2021-08-02,2019.22,Mortgage,Home
+Expense,2021-08-02,134.34,State Farm Insurance,Transportation
+Expense,2021-08-02,169.36,Xcel Energy,Utilities
+Expense,2021-08-02,16.50,BWS Subscription,Utilities
+Expense,2021-08-02,15.98,Jane LLC,Personal
+Expense,2021-08-02,39.98,Jane LLC,Personal
+Expense,2021-08-03,12.99,Jane LLC,Personal
+Expense,2021-08-03,43.91,Target,Personal
+Expense,2021-08-03,168.21,Target,Food
+Expense,2021-08-03,24.74,Gap,Personal
+Expense,2021-08-04,16.12,Itunes,Recreation
+Expense,2021-08-04,31.14,Hobby Lobby,Recreation
+Expense,2021-08-04,52.34,Gas,Transportation
+Expense,2021-08-05,44.92,Hydrojug,Recreation
+Expense,2021-08-05,38.69,Pizza Hut,Food
+Expense,2021-08-05,39.89,Pure Formulas,Recreation
+Expense,2021-08-05,32.94,Doordash,Food
+Expense,2021-08-06,6.33,Federal Income Tax,Tax
+Expense,2021-08-06,33.01,Social Security Tax,Tax
+Expense,2021-08-06,7.72,Medicare Tax,Tax
+Expense,2021-08-06,3.80,MN State Income Tax,Tax
+Expense,2021-08-07,89.08,Lakeshore Learning,Recreation
+Expense,2021-08-07,161.14,Party City,Recreation
+Expense,2021-08-07,43.20,Target,Personal
+Expense,2021-08-07,307.77,Target,Food
+Expense,2021-08-09,50.00,St. Thomas,Charity
+Expense,2021-08-09,17.47,Amazon,Recreation
+Expense,2021-08-09,16.47,Amazon,Recreation
+Expense,2021-08-09,33.32,Amazon,Recreation
+Expense,2021-08-10,83.96,Target,Food
+Expense,2021-08-11,10.72,Steam,Recreation
+Expense,2021-08-11,8.23,Chipotle,Food
+Expense,2021-08-11,9.00,Arbys,Food
+Expense,2021-08-12,6.00,Parking,Transportation
+Expense,2021-08-12,330.56,Target,Personal
+Expense,2021-08-13,179.64,Federal Income Tax,Tax
+Expense,2021-08-13,170.35,Social Security Tax,Tax
+Expense,2021-08-13,39.84,Medicare Tax,Tax
+Expense,2021-08-13,123.00,MN State Income Tax,Tax
+Expense,2021-08-13,156.65,401k,Savings
+Expense,2021-08-13,250.00,HSA,Health/Medical
+Expense,2021-08-13,11.85,Dental Insurance,Health/Medical
+Expense,2021-08-13,124.51,Health Insurance,Health/Medical
+Expense,2021-08-13,2.14,Itunes,Recreation
+Expense,2021-08-13,26.86,Itunes,Recreation
+Expense,2021-08-13,28.92,Doordash,Food
+Expense,2021-08-14,18.20,Amazon,Recreation
+Expense,2021-08-14,11.83,Itunes,Recreation
+Expense,2021-08-14,18.27,Itunes,Recreation
+Expense,2021-08-15,10.74,Photoshop,Recreation
+Expense,2021-08-15,60.00,Good Earth,Food
+Expense,2021-08-15,4.13,Spyhouse,Food
+Expense,2021-08-15,32.38,Doordash,Food
+Expense,2021-08-16,16.12,Itunes,Recreation
+Expense,2021-08-16,50.00,St. Thomas,Charity
+Expense,2021-08-16,10.72,Steam,Recreation
+Expense,2021-08-16,50.00,CFF,Charity
+Expense,2021-08-16,85.24,Doordash,Food
+Expense,2021-08-16,-23.00,Venmo,Food
+Expense,2021-08-17,15.04,Netflix,Recreation
+Expense,2021-08-17,55.32,Gas,Transportation
+Expense,2021-08-17,227.76,Target,Food
+Expense,2021-08-18,0.99,Icloud,Recreation
+Expense,2021-08-18,7.52,Discovery Plus,Recreation
+Expense,2021-08-18,22.46,Chick-fil-A,Food
+Expense,2021-08-19,13.97,Amazon Prime,Recreation
+Expense,2021-08-19,25.46,Doordash,Food
+Expense,2021-08-20,3.68,Federal Income Tax,Tax
+Expense,2021-08-20,31.38,Social Security Tax,Tax
+Expense,2021-08-20,7.34,Medicare Tax,Tax
+Expense,2021-08-20,2.38,MN State Income Tax,Tax
+Expense,2021-08-20,8.61,Disney Plus,Recreation
+Expense,2021-08-20,12.89,Hulu,Recreation
+Expense,2021-08-20,40.01,Doordash,Food
+Expense,2021-08-20,72.89,Target,Personal
+Expense,2021-08-21,-600.00,Family Tax Credit,Tax
+Expense,2021-08-21,27.08,Pizza Hut,Food
+Expense,2021-08-23,50.00,St. Thomas,Charity
+Expense,2021-08-23,8.23,Chipotle,Food
+Expense,2021-08-23,111.97,Target,Food
+Expense,2021-08-23,65.00,Centurylink Internet,Utilities
+Expense,2021-08-24,31.64,Waste Management,Utilities
+Expense,2021-08-24,-19.99,Jane LLC,Personal
+Expense,2021-08-24,40.51,Doordash,Food
+Expense,2021-08-25,0.99,Icloud,Recreation
+Expense,2021-08-25,100.00,Target,Personal
+Expense,2021-08-26,40.51,Doordash,Food
+Expense,2021-08-27,179.64,Federal Income Tax,Tax
+Expense,2021-08-27,170.35,Social Security Tax,Tax
+Expense,2021-08-27,39.84,Medicare Tax,Tax
+Expense,2021-08-27,123.00,MN State Income Tax,Tax
+Expense,2021-08-27,156.65,401k,Savings
+Expense,2021-08-27,250.00,HSA,Health/Medical
+Expense,2021-08-27,11.85,Dental Insurance,Health/Medical
+Expense,2021-08-27,124.51,Health Insurance,Health/Medical
+Expense,2021-08-29,16.12,HBO Max,Recreation
+Expense,2021-08-29,106.85,Target,Food
+Expense,2021-08-30,8.59,Origin,Recreation
+Expense,2021-08-30,50.00,St. Thomas,Charity
+Expense,2021-08-30,31.16,Itunes,Recreation
+Expense,2021-08-30,8.23,Chipotle,Food
+Expense,2021-08-30,36.31,Centerpoint Energy,Utilities
+Expense,2021-08-30,7.31,Adjustment,Other
+Expense,2021-09-01,16.50,BWS Subscription,Utilities
+Expense,2021-09-01,73.63,Grove Collaborative,Personal
+Expense,2021-09-01,278.47,Target,Food
+Expense,2021-09-01,134.34,State Farm Insurance,Transportation
+Expense,2021-09-01,65.00,Centurylink Internet,Utilities
+Expense,2021-09-01,-1420.74,Escrow Refund,Home
+Expense,2021-09-02,166.65,Amazon,Recreation
+Expense,2021-09-02,5.00,Etsy,Recreation
+Expense,2021-09-02,50.98,Etsy,Recreation
+Expense,2021-09-02,41.92,Amazon,Recreation
+Expense,2021-09-03,42.08,Federal Income Tax,Tax
+Expense,2021-09-03,55.18,Social Security Tax,Tax
+Expense,2021-09-03,12.90,Medicare Tax,Tax
+Expense,2021-09-03,22.92,MN State Income Tax,Tax
+Expense,2021-09-03,8.47,Mcdonalds,Food
+Expense,2021-09-03,551.39,KLIM,Recreation
+Expense,2021-09-04,31.89,Doordash,Food
+Expense,2021-09-04,19.38,Amazon,Recreation
+Expense,2021-09-04,645.31,Apple Store,Recreation
+Expense,2021-09-04,10.43,Etsy,Recreation
+Expense,2021-09-04,-19.38,Amazon,Recreation
+Expense,2021-09-04,41.90,Amazon,Recreation
+Expense,2021-09-04,26.88,Sephora,Personal
+Expense,2021-09-05,348.13,Target,Food
+Expense,2021-09-06,22.46,Chipotle,Food
+Expense,2021-09-06,39.71,Hobby Lobby,Recreation
+Expense,2021-09-06,50.00,St. Thomas,Charity
+Expense,2021-09-06,27.08,Pizza Hut,Food
+Expense,2021-09-07,74.00,Kyoto Sushi,Food
+Expense,2021-09-07,43.36,Amazon,Recreation
+Expense,2021-09-07,58.65,Amazon,Recreation
+Expense,2021-09-07,89.07,Target,Personal
+Expense,2021-09-08,8.23,Chipotle,Food
+Expense,2021-09-08,13.94,Menards,Personal
+Expense,2021-09-08,108.04,Amazon,Recreation
+Expense,2021-09-10,179.64,Federal Income Tax,Tax
+Expense,2021-09-10,170.35,Social Security Tax,Tax
+Expense,2021-09-10,39.84,Medicare Tax,Tax
+Expense,2021-09-10,123.00,MN State Income Tax,Tax
+Expense,2021-09-10,156.65,401k,Savings
+Expense,2021-09-10,250.00,HSA,Health/Medical
+Expense,2021-09-10,11.85,Dental Insurance,Health/Medical
+Expense,2021-09-10,124.51,Health Insurance,Health/Medical
+Expense,2021-09-10,40.50,Doordash,Food
+Expense,2021-09-10,27.08,Pizza Hut,Food
+Expense,2021-09-11,6.00,Parking,Transportation
+Expense,2021-09-11,90.75,Target,Personal
+Expense,2021-09-12,10.28,Amazon,Recreation
+Expense,2021-09-12,163.14,Target,Food
+Expense,2021-09-12,70.65,Target,Personal
+Expense,2021-09-13,8.47,Mcdonalds,Food
+Expense,2021-09-13,53.95,Gas,Transportation
+Expense,2021-09-13,50.00,St. Thomas,Charity
+Expense,2021-09-14,8.25,Mcdonalds,Food
+Expense,2021-09-14,192.96,REI,Personal
+Expense,2021-09-14,3.80,Target,Personal
+Expense,2021-09-14,17.09,Target,Personal
+Expense,2021-09-15,15.01,Steam,Recreation
+Expense,2021-09-15,9.98,Mcdonalds,Food
+Expense,2021-09-15,10.74,Photoshop,Recreation
+Expense,2021-09-15,114.81,Target,Personal
+Expense,2021-09-15,-2807.50,St. Thomas Student Loan,Debt
+Expense,2021-09-15,2807.50,Nelnet,Debt
+Expense,2021-09-16,8.23,Chipotle,Food
+Expense,2021-09-16,44.58,Doordash,Food
+Expense,2021-09-17,24.58,Federal Income Tax,Tax
+Expense,2021-09-17,44.33,Social Security Tax,Tax
+Expense,2021-09-17,10.37,Medicare Tax,Tax
+Expense,2021-09-17,13.56,MN State Income Tax,Tax
+Expense,2021-09-17,42.54,Doordash,Food
+Expense,2021-09-17,52.48,Gas,Transportation
+Expense,2021-09-17,50.00,CFF,Charity
+Expense,2021-09-17,15.04,Netflix,Recreation
+Expense,2021-09-18,23.93,Etsy,Recreation
+Expense,2021-09-18,7.52,Discovery Plus,Recreation
+Expense,2021-09-18,10.74,Itunes,Recreation
+Expense,2021-09-18,0.99,Icloud,Recreation
+Expense,2021-09-19,5.00,Etsy,Recreation
+Expense,2021-09-19,13.97,Amazon Prime,Recreation
+Expense,2021-09-19,14.62,Target,Personal
+Expense,2021-09-19,336.77,Target,Food
+Expense,2021-09-20,12.01,Mcdonalds,Food
+Expense,2021-09-20,48.00,Michaels,Recreation
+Expense,2021-09-20,8.61,Disney Plus,Recreation
+Expense,2021-09-20,12.89,Hulu,Recreation
+Expense,2021-09-20,50.00,St. Thomas,Charity
+Expense,2021-09-20,-600.00,Family Tax Credit,Tax
+Expense,2021-09-22,134.00,Aptive Environmental,Personal
+Expense,2021-09-22,77.91,Target,Personal
+Expense,2021-09-23,6.00,Parking,Transportation
+Expense,2021-09-23,31.66,Waste Management,Utilities
+Expense,2021-09-24,179.64,Federal Income Tax,Tax
+Expense,2021-09-24,170.35,Social Security Tax,Tax
+Expense,2021-09-24,39.84,Medicare Tax,Tax
+Expense,2021-09-24,123.00,MN State Income Tax,Tax
+Expense,2021-09-24,156.65,401k,Savings
+Expense,2021-09-24,250.00,HSA,Health/Medical
+Expense,2021-09-24,11.85,Dental Insurance,Health/Medical
+Expense,2021-09-24,124.51,Health Insurance,Health/Medical
+Expense,2021-09-24,0.99,Icloud,Recreation
+Expense,2021-09-24,38.00,BCS Osseo Area Schools,Other
+Expense,2021-09-24,56.98,Burts Bees,Personal
+Expense,2021-09-24,60.85,Minnesota Zoo,Recreation
+Expense,2021-09-24,39.51,Target,Personal
+Expense,2021-09-24,34.98,Target,Personal
+Expense,2021-09-25,5.35,Minnesota Zoo,Recreation
+Expense,2021-09-25,33.89,Minnesota Zoo,Recreation
+Expense,2021-09-25,16.05,Minnesota Zoo,Recreation
+Expense,2021-09-25,6.86,Mcdonalds,Food
+Expense,2021-09-25,7.00,Parking,Transportation
+Expense,2021-09-25,144.75,Gap,Personal
+Expense,2021-09-25,34.09,Gap,Personal
+Expense,2021-09-25,67.55,Gap,Personal
+Expense,2021-09-26,99.42,Doordash,Food
+Expense,2021-09-26,-55.00,Doordash,Food
+Expense,2021-09-27,50.00,ST. Thomas,Charity
+Expense,2021-09-28,313.82,Xcel Energy,Utilities
+Expense,2021-09-28,36.96,Grove Collaborative,Personal
+Expense,2021-09-28,47.47,Doordash,Food
+Expense,2021-09-28,15.01,Steam,Recreation
+Expense,2021-09-29,16.12,HBO Max,Recreation
+Expense,2021-09-29,27.83,Etsy,Recreation
+Expense,2021-09-29,47.90,Lolli Co Kids,Personal
+Expense,2021-09-30,33.67,Centerpoint Energy,Utilities
+Expense,2021-09-30,279.16,Adjustment,Other
+Expense,2021-09-30,27.57,Target,Personal
+Expense,2021-09-30,271.24,Target,Food
+Expense,2021-10-01,0.50,Parking,Transportation
+Expense,2021-10-01,29.55,Gas,Transportation
+Expense,2021-10-01,-1420.74,Refinance,Home
+Expense,2021-10-01,1786.58,Mortgage,Home
+Expense,2021-10-01,137.26,State Farm Insurance,Transportation
+Expense,2021-10-01,65.00,Centurylink Internet,Utilities
+Expense,2021-10-01,30.63,Federal Income Tax,Tax
+Expense,2021-10-01,48.08,Social Security Tax,Tax
+Expense,2021-10-01,11.25,Medicare Tax,Tax
+Expense,2021-10-01,16.80,MN State Income Tax,Tax
+Expense,2021-10-01,123.77,Target,Personal
+Expense,2021-10-02,0.65,AWS,Recreation
+Expense,2021-10-02,29.55,Gas,Transportation
+Expense,2021-10-02,0.50,Gas,Transportation
+Expense,2021-10-04,50.00,St. Thomas,Charity
+Expense,2021-10-04,330.58,Target,Food
+Expense,2021-10-05,9.64,Amazon,Recreation
+Expense,2021-10-05,17.19,Amazon,Recreation
+Expense,2021-10-05,20.42,Amazon,Recreation
+Expense,2021-10-05,12.89,Amazon,Recreation
+Expense,2021-10-05,41.85,Doordash,Food
+Expense,2021-10-08,179.64,Federal Income Tax,Tax
+Expense,2021-10-08,170.35,Social Security Tax,Tax
+Expense,2021-10-08,39.84,Medicare Tax,Tax
+Expense,2021-10-08,123.00,MN State Income Tax,Tax
+Expense,2021-10-08,156.65,401k,Savings
+Expense,2021-10-08,250.00,HSA,Health/Medical
+Expense,2021-10-08,11.85,Dental Insurance,Health/Medical
+Expense,2021-10-08,124.51,Health Insurance,Health/Medical
+Expense,2021-10-09,7.57,Chick-fil-A,Food
+Expense,2021-10-09,93.05,Target,Personal
+Expense,2021-10-10,33.82,Etsy,Recreation
+Expense,2021-10-10,32.00,Jessica Kobeissi,Recreation
+Expense,2021-10-10,80.61,Halo,Personal
+Expense,2021-10-11,50.00,St. Thomas,Charity
+Expense,2021-10-11,21.49,Itunes,Recreation
+Expense,2021-10-11,7.52,Taco Bell,Food
+Expense,2021-10-11,42.92,Doordash,Food
+Expense,2021-10-11,29.81,Target,Personal
+Expense,2021-10-11,198.76,Target,Food
+Expense,2021-10-12,273.93,Wandrd Orem UT,Recreation
+Expense,2021-10-13,381.90,Orpheum,Recreation
+Expense,2021-10-13,5.30,Target,Personal
+Expense,2021-10-15,10.74,Photoshop,Recreation
+Expense,2021-10-15,31.08,Federal Income Tax,Tax
+Expense,2021-10-15,48.36,Social Security Tax,Tax
+Expense,2021-10-15,11.31,Medicare Tax,Tax
+Expense,2021-10-15,17.04,MN State Income Tax,Tax
+Expense,2021-10-16,50.00,CFF,Charity
+Expense,2021-10-16,7.00,Parking,Transportation
+Expense,2021-10-17,57.82,Waldoch Farm,Recreation
+Expense,2021-10-17,54.82,Gas,Transportation
+Expense,2021-10-17,400.90,Target,Food
+Expense,2021-10-18,13.00,Doordash,Food
+Expense,2021-10-18,15.04,Netflix,Recreation
+Expense,2021-10-18,7.52,Discovery Plus,Recreation
+Expense,2021-10-18,0.99,Icloud,Recreation
+Expense,2021-10-18,50.00,St. Thomas,Charity
+Expense,2021-10-18,5.00,Parking,Transportation
+Expense,2021-10-19,13.97,Amazon Prime,Recreation
+Expense,2021-10-20,13.97,Hulu,Recreation
+Expense,2021-10-20,26.85,Amazon,Recreation
+Expense,2021-10-20,8.61,Disney Plus,Recreation
+Expense,2021-10-20,48.55,Doordash,Food
+Expense,2021-10-21,32.26,Warby Parker,Personal
+Expense,2021-10-21,25.75,Kitsch LLC,Personal
+Expense,2021-10-21,10.62,Arbys,Food
+Expense,2021-10-22,126.02,MN Dept of Revenue,Tax
+Expense,2021-10-22,179.64,Federal Income Tax,Tax
+Expense,2021-10-22,170.35,Social Security Tax,Tax
+Expense,2021-10-22,39.84,Medicare Tax,Tax
+Expense,2021-10-22,123.00,MN State Income Tax,Tax
+Expense,2021-10-22,156.65,401k,Savings
+Expense,2021-10-22,250.00,HSA,Health/Medical
+Expense,2021-10-22,11.85,Dental Insurance,Health/Medical
+Expense,2021-10-22,124.51,Health Insurance,Health/Medical
+Expense,2021-10-23,32.70,Party City,Recreation
+Expense,2021-10-23,1.95,Jane LLC,Personal
+Expense,2021-10-23,33.98,Jane LLC,Personal
+Expense,2021-10-23,0.99,Icloud,Recreation
+Expense,2021-10-23,371.50,Target,Food
+Expense,2021-10-23,-600.00,Family Tax Credit,Tax
+Expense,2021-10-25,50.00,St. Thomas,Charity
+Expense,2021-10-25,60.00,Good Earth,Food
+Expense,2021-10-25,0.99,Icloud,Recreation
+Expense,2021-10-25,887.08,Shane Co,Recreation
+Expense,2021-10-25,42.80,Target,Personal
+Expense,2021-10-26,108.00,Maven Thread,Personal
+Expense,2021-10-26,45.98,Run Signup,Recreation
+Expense,2021-10-26,45.98,Run Signup,Recreation
+Expense,2021-10-26,21.49,Barnes and Noble,Recreation
+Expense,2021-10-26,7.68,Barnes and Noble,Food
+Expense,2021-10-27,0.95,Jane LLC,Personal
+Expense,2021-10-27,33.98,Jane LLC,Personal
+Expense,2021-10-27,12.01,Mcdonalds,Food
+Expense,2021-10-27,88.21,Target,Personal
+Expense,2021-10-28,11.77,Amazon,Recreation
+Expense,2021-10-29,31.08,Federal Income Tax,Tax
+Expense,2021-10-29,48.36,Social Security Tax,Tax
+Expense,2021-10-29,11.31,Medicare Tax,Tax
+Expense,2021-10-29,17.04,MN State Income Tax,Tax
+Expense,2021-10-29,64.35,Steam,Recreation
+Expense,2021-10-29,5.37,Peacock,Recreation
+Expense,2021-10-29,8.37,Mcdonalds,Food
+Expense,2021-10-30,44.00,Doordash,Food
+Expense,2021-10-30,127.95,Joshuas Pest Control,Home
+Expense,2021-10-30,170.59,Target,Food
+Expense,2021-10-31,78.92,Adjustment,Other
+Expense,2021-10-31,42.98,Centerpoint Energy,Utilities
+Expense,2021-10-31,34.39,Michaels,Recreation
+Expense,2021-10-31,229.01,Target,Food
+Expense,2021-11-01,50.00,St. Thomas,Charity
+Expense,2021-11-01,1786.58,Mortgage,Home
+Expense,2021-11-01,137.26,State Farm Insurance,Transportation
+Expense,2021-11-01,65.00,Centurylink Internet,Utilities
+Expense,2021-11-01,299.01,Target,Food
+Expense,2021-11-02,21.51,Paypal,Recreation
+Expense,2021-11-03,1.60,AWS,Recreation
+Expense,2021-11-03,41.36,Etsy,Recreation
+Expense,2021-11-03,71.49,Target,Personal
+Expense,2021-11-04,-1050.00,HEERF Grant,Other
+Expense,2021-11-04,22.58,Wandrd Orem UT,Recreation
+Expense,2021-11-05,126.02,MN Dept of Revenue,Tax
+Expense,2021-11-05,179.64,Federal Income Tax,Tax
+Expense,2021-11-05,170.35,Social Security Tax,Tax
+Expense,2021-11-05,39.84,Medicare Tax,Tax
+Expense,2021-11-05,123.00,MN State Income Tax,Tax
+Expense,2021-11-05,156.65,401k,Savings
+Expense,2021-11-05,250.00,HSA,Health/Medical
+Expense,2021-11-05,11.85,Dental Insurance,Health/Medical
+Expense,2021-11-05,124.51,Health Insurance,Health/Medical
+Expense,2021-11-05,55.43,Gas,Transportation
+Expense,2021-11-05,5.96,Target,Personal
+Expense,2021-11-05,81.64,Target,Personal
+Expense,2021-11-07,117.97,Etsy,Recreation
+Expense,2021-11-07,399.61,Target,Food
+Expense,2021-11-07,26.29,GAP,Personal
+Expense,2021-11-08,50.00,St. Thomas,Charity
+Expense,2021-11-08,4.61,Culvers,Food
+Expense,2021-11-08,77.15,Target,Personal
+Expense,2021-11-08,24.69,Hobby Lobby,Recreation
+Expense,2021-11-08,5.36,GAP,Personal
+Expense,2021-11-09,6.99,Paypal,Recreation
+Expense,2021-11-09,22.82,Doordash,Food
+Expense,2021-11-10,54.24,Etsy,Recreation
+Expense,2021-11-10,7.40,Etsy,Recreation
+Expense,2021-11-10,5.37,Origin,Recreation
+Expense,2021-11-10,19.34,Itunes,Recreation
+Expense,2021-11-10,255.00,GAP,Personal
+Expense,2021-11-10,8.43,GAP,Personal
+Expense,2021-11-10,7.30,GAP,Personal
+Expense,2021-11-10,8.23,Chipotle,Food
+Expense,2021-11-10,15.31,Target,Personal
+Expense,2021-11-11,55.71,Catholic Card Game,Recreation
+Expense,2021-11-12,45.33,Federal Income Tax,Tax
+Expense,2021-11-12,57.19,Social Security Tax,Tax
+Expense,2021-11-12,13.38,Medicare Tax,Tax
+Expense,2021-11-12,24.66,MN State Income Tax,Tax
+Expense,2021-11-12,164.29,Etsy,Recreation
+Expense,2021-11-12,66.25,MN Vehicle Registration,Transportation
+Expense,2021-11-12,1.65,MN Vehicle Registration,Transportation
+Expense,2021-11-13,158.65,City of Maple Grove,Utilities
+Expense,2021-11-14,292.45,Target,Food
+Expense,2021-11-15,50.00,St. Thomas,Charity
+Expense,2021-11-15,161.28,Etsy,Recreation
+Expense,2021-11-15,10.74,Photoshop,Recreation
+Expense,2021-11-15,53.08,Special Forces Paintball,Recreation
+Expense,2021-11-15,46.16,Special Forces Paintball,Recreation
+Expense,2021-11-15,2.00,GAP,Personal
+Expense,2021-11-16,35.97,Bloody Buddy,Personal
+Expense,2021-11-16,27.00,Watercolors Made Simple,Recreation
+Expense,2021-11-16,21.49,Grove Collaborative,Personal
+Expense,2021-11-16,8.59,Autozone,Transportation
+Expense,2021-11-16,10.70,Panda Express,Food
+Expense,2021-11-16,2.00,USA CSC TEP CO,Recreation
+Expense,2021-11-16,100.00,ATM Withdrawal,Recreation
+Expense,2021-11-17,10.09,Mcdonalds,Food
+Expense,2021-11-17,11.77,Youngstedts,Transportation
+Expense,2021-11-17,40.00,Target,Personal
+Expense,2021-11-17,242.96,Target,Food
+Expense,2021-11-17,15.04,Netflix,Recreation
+Expense,2021-11-18,6.44,Funimation,Recreation
+Expense,2021-11-18,5.99,Funimation,Recreation
+Expense,2021-11-18,1.00,Icloud,Recreation
+Expense,2021-11-18,7.52,Discovery Plus,Recreation
+Expense,2021-11-18,44.29,Doordash,Food
+Expense,2021-11-18,89.13,Target,Personal
+Expense,2021-11-18,6.44,Funimation,Recreation
+Expense,2021-11-19,13.97,Amazon Prime,Recreation
+Expense,2021-11-19,126.02,MN Dept of Revenue,Tax
+Expense,2021-11-19,179.64,Federal Income Tax,Tax
+Expense,2021-11-19,170.35,Social Security Tax,Tax
+Expense,2021-11-19,39.84,Medicare Tax,Tax
+Expense,2021-11-19,123.00,MN State Income Tax,Tax
+Expense,2021-11-19,156.65,401k,Savings
+Expense,2021-11-19,250.00,HSA,Health/Medical
+Expense,2021-11-19,11.85,Dental Insurance,Health/Medical
+Expense,2021-11-19,124.51,Health Insurance,Health/Medical
+Expense,2021-11-19,-171.00,Delta Dental,Health/Medical
+Expense,2021-11-19,-600.00,Family Tax Credit,Tax
+Expense,2021-11-19,23.49,Target,Personal
+Expense,2021-11-19,55.94,Hydrojug,Recreation
+Expense,2021-11-20,13.97,Hulu,Recreation
+Expense,2021-11-20,8.61,Disney Plus,Recreation
+Expense,2021-11-20,25.10,Amazon,Recreation
+Expense,2021-11-20,17.47,Amazon,Recreation
+Expense,2021-11-20,107.07,Grove Collaborative,Personal
+Expense,2021-11-20,18.44,Kitsch LLC,Recreation
+Expense,2021-11-21,386.01,Target,Food
+Expense,2021-11-21,73.53,Target,Personal
+Expense,2021-11-21,40.86,Target,Personal
+Expense,2021-11-21,6.65,Target,Personal
+Expense,2021-11-22,50.00,CFF,Charity
+Expense,2021-11-22,50.00,St. Thomas,Charity
+Expense,2021-11-22,39.63,Doordash,Food
+Expense,2021-11-22,5.75,Starbucks,Food
+Expense,2021-11-22,54.10,Gas,Transportation
+Expense,2021-11-22,35.20,Doordash,Food
+Expense,2021-11-23,32.09,Waste Management,Utilities
+Expense,2021-11-23,9.11,Mcdonalds,Food
+Expense,2021-11-23,35.10,Target,Personal
+Expense,2021-11-23,69.41,Target,Personal
+Expense,2021-11-23,21.96,Target,Personal
+Expense,2021-11-25,44.50,Athena & Cameron,Recreation
+Expense,2021-11-25,9.00,Athena & Cameron,Recreation
+Expense,2021-11-25,9.00,Athena & Cameron,Recreation
+Expense,2021-11-25,25.90,Faifhful & Co,Recreation
+Expense,2021-11-25,33.08,Faifhful & Co,Recreation
+Expense,2021-11-26,53.58,Federal Income Tax,Tax
+Expense,2021-11-26,62.31,Social Security Tax,Tax
+Expense,2021-11-26,14.57,Medicare Tax,Tax
+Expense,2021-11-26,29.08,MN State Income Tax,Tax
+Expense,2021-11-26,139.77,Etsy,Recreation
+Expense,2021-11-26,67.15,Christmas Present,Recreation
+Expense,2021-11-26,44.29,Doordash,Food
+Expense,2021-11-26,0.99,Icloud,Recreation
+Expense,2021-11-26,91.91,Target,Personal
+Expense,2021-11-27,7.51,Culvers,Food
+Expense,2021-11-27,106.37,Target,Food
+Expense,2021-11-29,8.55,Etsy,Recreation
+Expense,2021-11-29,41.31,Doordash,Food
+Expense,2021-11-30,50.00,St. Jude's,Charity
+Expense,2021-11-30,66.56,Leaflet Missal,Recreation
+Expense,2021-11-30,50.00,St. Thomas,Charity
+Expense,2021-11-30,5.37,Peacock,Recreation
+Expense,2021-11-30,404.86,Target,Food
+Expense,2021-11-30,129.97,DSW,Personal
+Expense,2021-11-30,13.00,Maven Thread,Recreation
+Expense,2021-11-30,63.19,Centerpoint Energy,Utilities
+Expense,2021-12-01,16.50,BWS Subscription,Utilities
+Expense,2021-12-01,18.42,Halo,Personal
+Expense,2021-12-01,1786.58,Mortgage,Home
+Expense,2021-12-02,137.26,State Farm Insurance,Transportation
+Expense,2021-12-02,217.63,Xcel Energy,Utilities
+Expense,2021-12-02,119.28,Centerpoint Energy,Utilities
+Expense,2021-12-02,65.00,Centurylink Internet,Utilities
+Expense,2021-12-02,10.99,AWS,Recreation
+Expense,2021-12-02,47.00,Watercolors Made Simple,Recreation
+Expense,2021-12-03,179.64,Federal Income Tax,Tax
+Expense,2021-12-03,170.35,Social Security Tax,Tax
+Expense,2021-12-03,39.84,Medicare Tax,Tax
+Expense,2021-12-03,123.00,MN State Income Tax,Tax
+Expense,2021-12-03,156.65,401k,Savings
+Expense,2021-12-03,250.00,HSA,Health/Medical
+Expense,2021-12-03,11.85,Dental Insurance,Health/Medical
+Expense,2021-12-03,124.51,Health Insurance,Health/Medical
+Expense,2021-12-03,20.63,Pizza Hut,Food
+Expense,2021-12-04,40.44,Hobby Lobby,Personal
+Expense,2021-12-06,50.00,St. Thomas,Charity
+Expense,2021-12-06,10.74,Amazon Prime,Recreation
+Expense,2021-12-06,21.49,Itunes,Recreation
+Expense,2021-12-06,4.49,Cooks of Crocus Hill,Food
+Expense,2021-12-06,10.00,Parking,Transportation
+Expense,2021-12-06,81.42,Target,Personal
+Expense,2021-12-07,132.51,Etsy,Recreation
+Expense,2021-12-07,2.00,Parking,Transportation
+Expense,2021-12-07,33.35,Target,Personal
+Expense,2021-12-08,21.55,Steam,Recreation
+Expense,2021-12-08,41.31,Doordash,Food
+Expense,2021-12-08,18.88,Halo,Personal
+Expense,2021-12-09,36.56,Doordash,Food
+Expense,2021-12-09,43.20,Pro Hair,Personal
+Expense,2021-12-10,18.91,Social Security Tax,Tax
+Expense,2021-12-10,4.42,Medicare Tax,Tax
+Expense,2021-12-11,20.00,Ichiddo Ramen,Food
+Expense,2021-12-12,315.72,Bearaby Store,Recreation
+Expense,2021-12-12,27.08,Pizza Hut,Food
+Expense,2021-12-12,18.98,Target,Personal
+Expense,2021-12-12,207.54,Target,Food
+Expense,2021-12-13,50.00,St. Thomas,Charity
+Expense,2021-12-13,60.76,Whirlpool,Home
+Expense,2021-12-13,227.32,Target,Food
+Expense,2021-12-13,40.85,Target,Personal
+Expense,2021-12-15,10.74,Photoshop,Recreation
+Expense,2021-12-15,134.00,Aptive,Personal
+Expense,2021-12-15,66.61,Etsy,Recreation
+Expense,2021-12-15,228.46,Target,Food
+Expense,2021-12-15,3.52,Target,Personal
+Expense,2021-12-16,55.75,Maple Grove PKW,Personal
+Expense,2021-12-16,70.52,Kohls,Personal
+Expense,2021-12-16,33.73,Doordash,Food
+Expense,2021-12-16,68.65,Grove Collaborative,Personal
+Expense,2021-12-17,179.64,Federal Income Tax,Tax
+Expense,2021-12-17,170.35,Social Security Tax,Tax
+Expense,2021-12-17,39.84,Medicare Tax,Tax
+Expense,2021-12-17,123.00,MN State Income Tax,Tax
+Expense,2021-12-17,156.65,401k,Savings
+Expense,2021-12-17,250.00,HSA,Health/Medical
+Expense,2021-12-17,11.85,Dental Insurance,Health/Medical
+Expense,2021-12-17,124.51,Health Insurance,Health/Medical
+Expense,2021-12-17,7.52,Discovery Plus,Recreation
+Expense,2021-12-17,16.54,Amazon,Recreation
+Expense,2021-12-17,50.00,CFF,Charity
+Expense,2021-12-17,9.67,Jimmy Johns,Food
+Expense,2021-12-17,6.87,Mcdonalds,Food
+Expense,2021-12-17,7.00,Parking,Transportation
+Expense,2021-12-17,40.64,Target,Personal
+Expense,2021-12-17,75.75,Target,Personal
+Expense,2021-12-17,66.48,Target,Personal
+Expense,2021-12-17,87.10,Kohls,Personal
+Expense,2021-12-17,40.65,Target,Personal
+Expense,2021-12-18,7.52,Discovery Plus,Recreation
+Expense,2021-12-18,6.44,Funimation,Recreation
+Expense,2021-12-19,13.97,Amazon Prime,Recreation
+Expense,2021-12-19,40.05,Sephora,Recreation
+Expense,2021-12-19,306.44,Target,Recreation
+Expense,2021-12-19,7.15,Target,Personal
+Expense,2021-12-19,10.00,Target,Personal
+Expense,2021-12-19,9.26,Target,Personal
+Expense,2021-12-20,13.97,Hulu,Recreation
+Expense,2021-12-20,50.00,St. Thomas,Charity
+Expense,2021-12-20,8.61,Disney Plus,Recreation
+Expense,2021-12-20,116.00,Target,Food
+Expense,2021-12-20,14.24,Target,Personal
+Expense,2021-12-21,15.00,Etsy,Recreation
+Expense,2021-12-21,11.84,Target,Personal
+Expense,2021-12-22,-600.00,Family Tax Credit,Tax
+Expense,2021-12-22,1.06,Itunes,Recreation
+Expense,2021-12-24,70.58,Federal Income Tax,Tax
+Expense,2021-12-24,72.85,Social Security Tax,Tax
+Expense,2021-12-24,17.04,Medicare Tax,Tax
+Expense,2021-12-24,38.17,MN State Income Tax,Tax
+Expense,2021-12-31,179.64,Federal Income Tax,Tax
+Expense,2021-12-31,170.35,Social Security Tax,Tax
+Expense,2021-12-31,39.84,Medicare Tax,Tax
+Expense,2021-12-31,123.00,MN State Income Tax,Tax
+Expense,2021-12-31,156.65,401k,Savings
+Expense,2021-12-31,250.00,HSA,Health/Medical
+Expense,2021-12-31,11.85,Dental Insurance,Health/Medical
+Expense,2021-12-31,124.51,Health Insurance,Health/Medical
+Expense,2021-12-25,200.00,Heather Howsman,Charity
+Expense,2021-12-31,1000.00,Rosalie 529,Savings
+Expense,2021-12-31,1000.00,Oliver 529,Savings
+Expense,2021-12-31,670.00,Kirstie Misc,Recreation
+Expense,2021-12-28,5.37,Peacock,Recreation
+Expense,2021-12-27,50.00,St. Thomas,Charity
+Expense,2021-12-23,32.35,Waste Management,Utilities
+Expense,2021-12-27,7.19,Taco Bell,Food
+Expense,2021-12-27,53.37,Gas,Transportation
+Expense,2021-12-26,8.60,Panda Express,Food
+Expense,2021-12-24,10.21,Panda Express,Food
+Expense,2021-12-24,0.82,Walgreens,Health/Medical
+Expense,2021-12-24,64.50,Nintendo,Recreation
+Expense,2021-12-24,0.99,Icloud,Recreation
+Expense,2021-12-22,1.06,Itunes,Recreation
+Expense,2021-12-27,235.02,Target,Personal
+Expense,2021-12-27,14.25,Target,Personal
+Expense,2021-12-25,306.44,Target,Recreation
+Expense,2021-12-25,40.72,Target,Food
+Expense,2021-12-23,416.65,Target,Food
+Expense,2021-12-28,10.74,Spotify,Recreation
+Expense,2021-12-28,130.41,Sephora,Recreation
+Expense,2021-12-28,38.34,Grubhub,Recreation
+Expense,2021-12-17,15.04,Netflix,Recreation
+Expense,2021-12-31,40.74,Amazon,Recreation
+Expense,2021-12-30,40.75,Etsy,Recreation
+Expense,2021-12-29,30.46,Amazon,Recreation
+Expense,2021-12-31,6.86,Mcdonalds,Food
+Expense,2021-12-29,10.74,Spotify,Recreation
+Expense,2021-12-30,8.55,Chipotle,Food
+Expense,2021-12-31,23.12,Target,Personal
+Expense,2021-12-30,18.62,Target,Personal
+Expense,2021-12-31,-163.32,Adjustment,Other
+Income,2021-01-01,3076.93,Polaris,Salary
+Income,2021-01-02,40.00,Emmanuel Kaul,Chess
+Income,2021-01-03,40.00,Emmanuel Kaul,Other
+Income,2021-01-04,1800.00,COVID Stimulus,Other
+Income,2021-01-06,30.00,Samuel Heinemann,Chess
+Income,2021-01-08,273.50,Rockler,Other
+Income,2021-01-10,40.00,Emmanuel Kaul,Other
+Income,2021-01-13,30.00,Samuel Heinemann,Chess
+Income,2021-01-15,3076.93,Polaris,Salary
+Income,2021-01-15,40.00,Emmanuel Kaul,Chess
+Income,2021-01-17,40.00,Emmanuel Kaul,Other
+Income,2021-01-20,30.00,Samuel Heinemann,Chess
+Income,2021-01-22,927.00,Rockler,Other
+Income,2021-01-22,40.00,Emmanuel Kaul,Chess
+Income,2021-01-24,40.00,Emmanuel Kaul,Other
+Income,2021-01-27,30.00,Samuel Heinemann,Chess
+Income,2021-01-29,3076.93,Polaris,Salary
+Income,2021-01-29,40.00,Emmanuel Kaul,Chess
+Income,2021-01-31,40.00,Emmanuel Kaul,Other
+Income,2021-02-03,30.00,Samuel Heinemann,Chess
+Income,2021-02-05,920.00,Rockler,Other
+Income,2021-02-06,40.00,Emmanuel Kaul,Chess
+Income,2021-02-07,40.00,Emmanuel Kaul,Other
+Income,2021-02-12,3076.93,Polaris,Salary
+Income,2021-02-12,40.00,Emmanuel Kaul,Chess
+Income,2021-02-14,40.00,Emmanuel Kaul,Other
+Income,2021-02-17,30.00,Samuel Heinemann,Chess
+Income,2021-02-19,1085.50,Rockler,Other
+Income,2021-02-19,40.00,Emmanuel Kaul,Chess
+Income,2021-02-21,40.00,Emmanuel Kaul,Other
+Income,2021-02-26,3076.93,Polaris,Salary
+Income,2021-02-27,40.00,Emmanuel Kaul,Chess
+Income,2021-03-03,30.00,Samuel Heinemann,Chess
+Income,2021-03-05,40.00,Emmanuel Kaul,Chess
+Income,2021-03-05,820.50,Rockler,Other
+Income,2021-03-05,14030.80,Polaris,Bonus
+Income,2021-03-07,40.00,Emmanuel Kaul,Other
+Income,2021-03-10,30.00,Samuel Heinemann,Chess
+Income,2021-03-12,3076.93,Polaris,Salary
+Income,2021-03-12,40.00,Emmanuel Kaul,Chess
+Income,2021-03-14,40.00,Emmanuel Kaul,Other
+Income,2021-03-19,914.50,Rockler,Other
+Income,2021-03-19,40.00,Emmanuel Kaul,Chess
+Income,2021-03-23,5600.00,COVID Stimulus,Other
+Income,2021-03-23,1400.00,COVID Stimulus,Other
+Income,2021-03-24,30.00,Samuel Heinemann,Chess
+Income,2021-03-26,3076.93,Polaris,Salary
+Income,2021-03-27,40.00,Emmanuel Kaul,Chess
+Income,2021-03-28,40.00,Emmanuel Kaul,Other
+Income,2021-04-02,1061.50,Rockler,Other
+Income,2021-04-09,3134.05,Polaris,Salary
+Income,2021-04-11,40.00,Emmanuel Kaul,Other
+Income,2021-04-16,934.50,Rockler,Other
+Income,2021-04-16,40.00,Emmanuel Kaul,Chess
+Income,2021-04-23,3134.05,Polaris,Salary
+Income,2021-04-23,40.00,Emmanuel Kaul,Chess
+Income,2021-04-25,40.00,Emmanuel Kaul,Other
+Income,2021-04-29,985.00,Rockler,Other
+Income,2021-05-02,40.00,Emmanuel Kaul,Chess
+Income,2021-05-07,3134.05,Polaris,Salary
+Income,2021-05-07,40.00,Emmanuel Kaul,Chess
+Income,2021-05-14,976.00,Rockler,Other
+Income,2021-05-14,40.00,Emmanuel Kaul,Chess
+Income,2021-05-16,40.00,Emmanuel Kaul,Other
+Income,2021-05-21,3134.05,Polaris,Salary
+Income,2021-05-22,40.00,Emmanuel Kaul,Chess
+Income,2021-05-23,40.00,Emmanuel Kaul,Other
+Income,2021-05-28,847.00,Rockler,Other
+Income,2021-05-28,40.00,Emmanuel Kaul,Chess
+Income,2021-05-30,40.00,Emmanuel Kaul,Other
+Income,2021-06-04,40.00,Emmanuel Kaul,Chess
+Income,2021-06-04,3134.05,Polaris,Salary
+Income,2021-06-11,1042.50,Rockler,Other
+Income,2021-06-14,40.00,Emmanuel Kaul,Other
+Income,2021-06-16,40.00,Emmanuel Kaul,Other
+Income,2021-06-18,3134.05,Polaris,Salary
+Income,2021-06-21,40.00,Emmanuel Kaul,Other
+Income,2021-06-23,40.00,Emmanuel Kaul,Other
+Income,2021-06-25,943.50,Rockler,Other
+Income,2021-06-28,40.00,Emmanuel Kaul,Other
+Income,2021-07-02,3134.05,Polaris,Salary
+Income,2021-07-09,673.00,Rockler,Other
+Income,2021-07-16,40.00,Emmanuel Kaul,Other
+Income,2021-07-16,3134.05,Polaris,Salary
+Income,2021-07-19,40.00,Emmanuel Kaul,Other
+Income,2021-07-23,705.00,Rockler,Other
+Income,2021-07-23,40.00,Emmanuel Kaul,Other
+Income,2021-07-30,3134.05,Polaris,Salary
+Income,2021-07-30,40.00,Emmanuel Kaul,Other
+Income,2021-08-06,532.50,Rockler,Other
+Income,2021-08-13,3134.05,Polaris,Salary
+Income,2021-08-13,40.00,Emmanuel Kaul,Other
+Income,2021-08-18,40.00,Emmanuel Kaul,Other
+Income,2021-08-20,506.00,Rockler,Other
+Income,2021-08-22,40.00,Emmanuel Kaul,Other
+Income,2021-08-27,3134.05,Polaris,Salary
+Income,2021-09-03,890.00,Rockler,Other
+Income,2021-09-10,3134.05,Polaris,Salary
+Income,2021-09-10,40.00,Emmanuel Kaul,Chess
+Income,2021-09-16,40.00,Emmanuel Kaul,Other
+Income,2021-09-17,40.00,Emmanuel Kaul,Chess
+Income,2021-09-17,715.00,Rockler,Other
+Income,2021-09-19,40.00,Emmanuel Kaul,Other
+Income,2021-09-24,3134.05,Polaris,Salary
+Income,2021-09-24,40.00,Emmanuel Kaul,Chess
+Income,2021-10-01,775.50,Rockler,Other
+Income,2021-10-01,40.00,Emmanuel Kaul,Chess
+Income,2021-10-03,40.00,Emmanuel Kaul,Other
+Income,2021-10-08,3134.05,Polaris,Salary
+Income,2021-10-10,40.00,Emmanuel Kaul,Other
+Income,2021-10-15,780.00,Rockler,Other
+Income,2021-10-22,3134.05,Polaris,Salary
+Income,2021-10-22,40.00,Emmanuel Kaul,Chess
+Income,2021-10-24,40.00,Emmanuel Kaul,Other
+Income,2021-10-29,780.00,Rockler,Other
+Income,2021-10-29,40.00,Emmanuel Kaul,Chess
+Income,2021-10-31,40.00,Emmanuel Kaul,Other
+Income,2021-11-05,3134.05,Polaris,Salary
+Income,2021-11-05,40.00,Emmanuel Kaul,Chess
+Income,2021-11-07,40.00,Emmanuel Kaul,Other
+Income,2021-11-12,922.50,Rockler,Other
+Income,2021-11-19,3134.05,Polaris,Salary
+Income,2021-11-21,40.00,Emmanuel Kaul,Other
+Income,2021-11-26,1005.00,Rockler,Other
+Income,2021-11-26,40.00,Emmanuel Kaul,Chess
+Income,2021-11-28,40.00,Emmanuel Kaul,Other
+Income,2021-12-03,3134.05,Polaris,Salary
+Income,2021-12-17,3134.05,Polaris,Salary
+Income,2021-12-31,3134.05,Polaris,Salary
+Income,2021-12-10,305.00,Rockler,Other
+Income,2021-12-24,1175.00,Rockler,Other
+Income,2021-12-03,40.00,Emmanuel Kaul,Chess
+Income,2021-12-06,40.00,Emmanuel Kaul,Chess
+Income,2021-12-12,40.00,Emmanuel Kaul,Other
+Income,2021-12-13,40.00,Emmanuel Kaul,Chess
+Income,2021-12-25,4000.00,Nana & Papa,Gifts

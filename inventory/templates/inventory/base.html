@@ -1,0 +1,32 @@
+{% load static %}
+<!DOCTYPE html>
+<html>
+
+<div class="topnav">
+	<a class="active" href="{% url 'index' %}">BurrowDB</a>
+	<a href="{% url 'inventory-onhand' %}">Inventory</a>
+	<a href="{% url 'inventory-home' %}">Shopping List</a>
+	<a href="{% url 'inventory-recipes' %}">Recipe List</a>
+	<a href="{% url 'inventory-upceditor' %}">Product Detail</a>
+	<a href="{% url 'inventory-history' %}">Scan History</a>
+	<a href="{% url 'inventory-history-bulkloader' %}">Bulk Loader</a>
+	<a href="{% url 'inventory-history-translator' %}">UPC Translator</a>
+</div>
+
+<head>
+
+	<!-- Load CSS -->
+	<link rel="stylesheet" href="{% static 'inventory/main.css' %}">
+
+	{% if title %}
+		<title>BurrowDB - {{ title }}</title>
+	{% else %}
+		<title>BurrowDB</title>
+	{% endif %}
+</head>
+
+<body style="background-color:#ddd;">
+	{% block content %}{% endblock %}
+</body>
+
+</html>

@@ -1,0 +1,26 @@
+
+
+{% extends "inventory/base.html" %}
+
+{% block content %}
+    <h1>Recipe Editor</h1>
+
+	{% load static %}
+	<link rel="stylesheet" href="{% static 'inventory/tables.css' %}">
+
+<form action='.' method='POST'>
+
+        {% for hidden_field in form.hidden_fields %}
+          {{ hidden_field.errors }}
+          {{ hidden_field }}
+        {% endfor %}
+
+        {% csrf_token %}
+
+        {{ form.non_form_errors }}
+
+    {{ form.as_p }}
+    <input type='submit' value='Save' />
+</form>
+
+{% endblock %}

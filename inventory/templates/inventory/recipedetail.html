@@ -1,0 +1,60 @@
+{% extends "inventory/base.html" %}
+
+{% block content %}
+
+    <h1>Recipe Detail</h1>
+
+	{% load static %}
+	<link rel="stylesheet" href="{% static 'inventory/tables.css' %}">
+    <link rel="stylesheet" href="{% static 'inventory/buttons.css' %}">
+
+    {% if messages %}
+        {% for message in messages %}
+        <h2>{{ message }}</h2>
+        {% endfor %}
+    {% endif %}
+
+          <table class="content-table">
+              <thead>
+				<tr>
+					<th>Field</th>
+					<th>Value</th>
+                </tr>
+              </thead>
+              <tbody>
+
+                <tr>
+                    <td>Recipe:</td>
+                    <td>{{ recipes.title }}</td>
+                </tr>
+
+                <tr>
+                    <td>Servings:</td>
+                    <td>{{ recipes.servings }}</td>
+                </tr>
+
+                <tr>
+                    <td>Prep Time (Minutes):</td>
+                    <td>{{ recipes.preptimeminutes }}</td>
+                </tr>
+
+                <tr>
+                    <td>Instructions:</td>
+                    <td>{{ recipes.description }}</td>
+                </tr>
+
+                {% for item in recipes.recipe_ingredient.all %}
+                <tr>
+                    <td>{{ item.category }}</td>
+                    <td>{{ item.grams }}</td>
+                </tr>
+                {% endfor %}
+
+              </tbody>
+          </table>
+
+    <a href="{% url 'inventory-recipeseditor' id=recipes.id %}" class="button">Edit Recipe</a>
+    <a href="{% url 'inventory-recipeingredienteditor' pk=recipes.id %}" class="button">Edit Ingredients</a>
+    <a href="{% url 'inventory-recipes' %}" class="button">All Recipes</a>
+
+{% endblock %}

@@ -1,0 +1,42 @@
+{% extends "inventory/base.html" %}
+
+{% block content %}
+    <h1>Recipe Editor</h1>
+
+	{% load static %}
+	<link rel="stylesheet" href="{% static 'inventory/tables.css' %}">
+
+      <form action="" method="post">
+        {% for hidden_field in form.hidden_fields %}
+          {{ hidden_field.errors }}
+          {{ hidden_field }}
+        {% endfor %}
+
+        {% csrf_token %}
+
+        {{ form.non_form_errors }}
+
+          <table class="content-table">
+              <thead>
+				<tr>
+					<th>Field</th>
+					<th>Value</th>
+                </tr>
+              </thead>
+              <tbody>
+              {% for field in form %}
+                <tr>
+                    <td>{{ field.errors }}{{ field.label_tag }} </td>
+                    <td>{{ field }}</td>
+                </tr>
+              {% endfor %}
+              </tbody>
+          </table>
+
+        <p class="pt-2">
+            <button type="submit">Add Recipe</button>
+            <a href="{% url 'inventory-recipes' %}">Cancel</a>
+        </p>
+      </form>
+
+{% endblock %}

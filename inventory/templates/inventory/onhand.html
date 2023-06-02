@@ -1,0 +1,57 @@
+{% extends "inventory/base.html" %}
+
+{% block content %}
+	<h1>Inventory On-Hand</h1>
+	
+	{% load static %}
+	<link rel="stylesheet" href="{% static 'inventory/tables.css' %}">
+	<script src="{% static 'inventory/tablesearch.js' %}"></script>
+
+<style>
+	.container {
+	  	text-align: center;
+  		border: 1px solid #333;
+		width:40px;
+		height:40px;
+		position:relative;
+	 }
+
+	img {
+  		width: auto;
+  		height: auto;
+  		max-width: 40px;
+  		max-height: 40px;
+	}
+</style>
+
+
+	<input type="search" placeholder="Search..." class="form-control search-input" data-table="content-table"/>
+
+	<table class="content-table">
+		<thead>
+			<tr>
+				<th></th>
+				<th>UPC</th>
+				<th>Description</th>
+				<th>Quantity</th>
+			</tr>
+		</thead>
+		<tbody>
+			{% for item in query_results %}
+			<tr>
+				<td>
+					<div class="container">
+						<a href="{% url 'inventory-upceditor-edit' item.id %}" style="color:black; text-decoration: none;">
+							<img src="/media/{{item.image}}" max-width="40px" max-height="40px">
+						</a>
+					</div>
+				</td>
+				<td><a href="{% url 'inventory-upceditor-edit' item.id %}" style="color:black; text-decoration: none;">{{item.id}}</a></td>
+				<td>{{item.description}}</td>
+				<td>{{item.OnHand}}</td>
+			</tr>
+			{% endfor %}
+		</tbody>
+	</table>
+	
+{% endblock content %}

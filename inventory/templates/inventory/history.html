@@ -1,0 +1,33 @@
+{% extends "inventory/base.html" %}
+
+{% block content %}
+	<h1>Scan History</h1>
+	
+	{% load static %}
+	<link rel="stylesheet" href="{% static 'inventory/tables.css' %}">
+	<script src="{% static 'js/tablesearch.js' %}"></script>
+
+	<input type="search" placeholder="Search..." class="form-control search-input" data-table="content-table"/>
+	
+	<table class="content-table">
+		<thead>
+			<tr>
+				<th>Date</th>
+				<th>Delta</th>
+				<th>UPC</th>
+				<th>Description</th>
+			</tr>
+		</thead>
+		<tbody>
+			{% for item in query_results %}
+			<tr>
+				<td>{{item.DATE}}</td>
+				<td>{{item.DELTA}}</td>
+				<td>{{item.UPC}}</td>
+				<td>{{item.DESCRIPTION}}</td>
+			</tr>
+			{% endfor %}
+		</tbody>
+	</table>
+	
+{% endblock content %}

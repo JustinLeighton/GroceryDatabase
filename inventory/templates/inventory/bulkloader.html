@@ -1,0 +1,71 @@
+{% extends "inventory/base.html" %}
+
+{% block content %}
+
+<h1>{{ header }}</h1>
+
+{% load static %}
+<link rel="stylesheet" href="{% static 'inventory/tables.css' %}">
+
+<style>
+	.row {
+	  display: flex;
+	}
+
+	.column {
+	  flex: 50%;
+	}
+</style>
+
+<div class="row">
+  <div class="column">
+
+	<form method = "post" enctype="multipart/form-data">
+
+		{% csrf_token %}
+
+		<table class="content-table">
+			<thead>
+				<tr>
+					<th>Field</th>
+					<th>Input</th>
+				</tr>
+			</thead>
+			<tbody>
+				{% for item in form %}
+				<tr>
+					<td> {{item.label}} </td>
+					<td>{{item}}</td>
+				</tr>
+				{% endfor %}
+			</tbody>
+		</table>
+		<button type="submit">Submit</button>
+
+	</form>
+
+	</div>
+
+	<div class="column">
+		<table class="content-table">
+
+			{% if resultflag %}
+			<thead>
+				<tr>
+					<th>{{ source }}</th>
+					<th>Description</th>
+					<th>UPC</th>
+				</tr>
+			</thead>
+			{% endif %}
+
+			{% for b in results.itertuples %}
+        		<tr><td>{{ b.DPCI }}</td><td> {{ b.Name }}</td><td> {{ b.UPC }}</td></tr>
+			{% endfor %}
+
+		</table>
+	</div>
+
+</div>
+
+{% endblock content %}

@@ -1,0 +1,1305 @@
+Source,Date,Amount,Description,Category
+Expense,2020-01-01,1665.00,Rent,Home
+Expense,2020-01-01,-680.00,Jenna Rent,Home
+Expense,2020-01-01,168.16,Carmax Auto,Debt
+Expense,2020-01-01,63.55,State Farm Life Insurance,Health/Medical
+Expense,2020-01-01,343.17,Nelnet Student Loan,Debt
+Expense,2020-01-01,123.50,Progressive Auto,Transportation
+Expense,2020-01-01,65.00,Century Link Internet,Utilities
+Expense,2020-01-01,100.57,Great Lakes Student Loan,Debt
+Expense,2020-01-02,39.64,Gas,Transportation
+Expense,2020-01-02,61.29,Target,Recreation
+Expense,2020-01-03,65.55,Target,Food
+Expense,2020-01-03,52.77,Target,Personal
+Expense,2020-01-03,6.63,Target,Food
+Expense,2020-01-04,26.87,Apple,Recreation
+Expense,2020-01-04,16.00,Dominos Pizza,Food
+Expense,2020-01-05,64.05,Centerpoint Energy,Utilities
+Expense,2020-01-05,79.19,Xcel Energy,Utilities
+Expense,2020-01-05,-83.30,Jenna Utilities,Utilities
+Expense,2020-01-05,67.96,Target,Personal
+Expense,2020-01-05,50.71,Target,Food
+Expense,2020-01-07,-7.79,Progressive Overpay,Transportation
+Expense,2020-01-08,5.54,Target,Personal
+Expense,2020-01-08,60.58,Target,Food
+Expense,2020-01-08,6.63,Target,Food
+Expense,2020-01-09,19.92,Noodles and Company,Food
+Expense,2020-01-10,177.13,Federal Income Tax,Tax
+Expense,2020-01-10,127.77,Social Security Tax,Tax
+Expense,2020-01-10,29.88,Medicare Tax,Tax
+Expense,2020-01-10,87.01,MN State Income Tax,Tax
+Expense,2020-01-10,16.99,Dental Insurance,Health/Medical
+Expense,2020-01-10,266.67,HSA,Health/Medical
+Expense,2020-01-10,255.96,Medical Insurance,Health/Medical
+Expense,2020-01-10,75.00,Leaflet Missal,Personal
+Expense,2020-01-10,18.26,Pizza Hut,Food
+Expense,2020-01-11,155.93,Target,Personal
+Expense,2020-01-11,74.52,Target,Food
+Expense,2020-01-12,23.04,Arbys,Food
+Expense,2020-01-13,7.69,Chipotle,Food
+Expense,2020-01-14,5.38,Taco Bell,Food
+Expense,2020-01-14,71.41,Target,Food
+Expense,2020-01-15,10.74,Photoshop,Recreation
+Expense,2020-01-16,32.80,License Renewal,Transportation
+Expense,2020-01-16,23.57,Amazon,Recreation
+Expense,2020-01-16,52.93,Halo Sleepsack,Recreation
+Expense,2020-01-17,40.98,Gas,Transportation
+Expense,2020-01-17,7.69,Chipotle,Food
+Expense,2020-01-17,30.00,CFF,Charity
+Expense,2020-01-17,13.97,Netflix,Recreation
+Expense,2020-01-18,24.27,Venmo Diapers,Personal
+Expense,2020-01-19,19.41,Noodles and Company,Food
+Expense,2020-01-19,108.78,Target,Food
+Expense,2020-01-19,7.53,Disney Plus,Recreation
+Expense,2020-01-20,146.56,Graco Childrens Prod,Personal
+Expense,2020-01-20,30.00,St. Thomas,Charity
+Expense,2020-01-20,23.92,Target,Personal
+Expense,2020-01-21,6.03,Polaris BC,Food
+Expense,2020-01-22,6.30,Polaris BC,Food
+Expense,2020-01-22,10.62,Walmart,Recreation
+Expense,2020-01-23,8.40,Polaris BC,Food
+Expense,2020-01-23,0.99,Icloud,Recreation
+Expense,2020-01-24,458.89,Federal Income Tax,Tax
+Expense,2020-01-24,249.00,Social Security Tax,Tax
+Expense,2020-01-24,58.23,Medicare Tax,Tax
+Expense,2020-01-24,219.96,MN State Income Tax,Tax
+Expense,2020-01-24,16.99,Dental Insurance,Health/Medical
+Expense,2020-01-24,266.67,HSA,Health/Medical
+Expense,2020-01-24,255.96,Medical Insurance,Health/Medical
+Expense,2020-01-24,131.18,Target,Food
+Expense,2020-01-24,5.57,Mcdonalds,Food
+Expense,2020-01-25,14.38,Target,Food
+Expense,2020-01-25,3.37,Amazon,Recreation
+Expense,2020-01-25,38.00,Chews Life,Recreation
+Expense,2020-01-26,22.57,Steam,Recreation
+Expense,2020-01-26,21.49,Takara Sushi,Food
+Expense,2020-01-27,30.00,St. Thomas,Charity
+Expense,2020-01-27,388.09,Carmax Auto,Debt
+Expense,2020-01-27,42.40,Gas,Transportation
+Expense,2020-01-27,6.63,Target,Food
+Expense,2020-01-27,56.52,Target,Food
+Expense,2020-01-27,120.86,Target,Personal
+Expense,2020-01-28,6.30,Polaris BC,Food
+Expense,2020-01-29,6.00,Mcdonalds,Food
+Expense,2020-01-29,6.51,Target,Food
+Expense,2020-01-30,123.14,Target,Personal
+Expense,2020-01-31,43.25,Federal Income Tax,Tax
+Expense,2020-01-31,168.82,Social Security Tax,Tax
+Expense,2020-01-31,39.48,Medicare Tax,Tax
+Expense,2020-01-31,77.00,MN State Income Tax,Tax
+Expense,2020-01-31,11.85,Dental Insurance,Health/Medical
+Expense,2020-01-31,220.00,HSA,Health/Medical
+Expense,2020-01-31,122.18,Medical Insurance,Health/Medical
+Expense,2020-01-31,4.47,Polaris BC,Food
+Expense,2020-01-31,0.51,Polaris BC,Food
+Expense,2020-01-31,7.32,Adjustment,Other
+Expense,2020-01-31,16.67,Noodles and Company,Food
+Expense,2020-02-01,113.97,SP Snuggle Me,Personal
+Expense,2020-02-01,79.19,Xcel Energy,Utilities
+Expense,2020-02-01,1665.00,Rent,Home
+Expense,2020-02-01,-680.00,Jenna Rent,Home
+Expense,2020-02-01,63.55,State Farm Life Insurance,Health/Medical
+Expense,2020-02-01,556.25,Carmax Auto,Debt
+Expense,2020-02-01,343.17,Nelnet Student Loan,Debt
+Expense,2020-02-01,100.57,Great Lakes Student Loan,Debt
+Expense,2020-02-01,123.50,Progressive,Transportation
+Expense,2020-02-01,65.00,Century Link Internet,Utilities
+Expense,2020-02-02,113.48,Target,Food
+Expense,2020-02-02,14.98,Target,Food
+Expense,2020-02-03,10.77,Origin,Recreation
+Expense,2020-02-03,30.00,St. Thomas,Charity
+Expense,2020-02-04,74.09,Centerpoint Energy,Utilities
+Expense,2020-02-04,-87.31,Jenna Utilities,Utilities
+Expense,2020-02-04,8.59,Pizza Hut,Food
+Expense,2020-02-04,21.54,Origin,Recreation
+Expense,2020-02-04,6.30,Polaris BC,Food
+Expense,2020-02-04,7.72,Mcdonalds,Food
+Expense,2020-02-05,7.69,Chipotle,Food
+Expense,2020-02-06,20.04,Gas,Transportation
+Expense,2020-02-06,12.07,Walmart,Food
+Expense,2020-02-07,0.50,Polaris BC,Food
+Expense,2020-02-07,4.47,Polaris BC,Food
+Expense,2020-02-07,31.88,Federal Income Tax,Tax
+Expense,2020-02-07,48.14,Social Security Tax,Tax
+Expense,2020-02-07,11.26,Medicare Tax,Tax
+Expense,2020-02-07,17.06,MN State Income Tax,Tax
+Expense,2020-02-07,6.75,White Castle,Food
+Expense,2020-02-08,41.88,Gas,Transportation
+Expense,2020-02-08,3.50,Perkins,Food
+Expense,2020-02-08,9.14,Starbucks,Food
+Expense,2020-02-09,6.31,White Castle,Food
+Expense,2020-02-09,2.38,Walmart,Food
+Expense,2020-02-09,5.38,Origin,Recreation
+Expense,2020-02-09,6.63,Target,Food
+Expense,2020-02-09,9.50,Target,Food
+Expense,2020-02-09,69.97,Target,Personal
+Expense,2020-02-09,126.52,Target,Food
+Expense,2020-02-09,74.94,Target,Personal
+Expense,2020-02-09,24.74,Target,Personal
+Expense,2020-02-09,38.06,Target,Personal
+Expense,2020-02-09,15.52,Target,Personal
+Expense,2020-02-10,30.00,St. Thomas,Charity
+Expense,2020-02-12,19.41,Noodles and Company,Food
+Expense,2020-02-12,7.40,Walmart,Food
+Expense,2020-02-14,24.79,Federal Income Tax,Tax
+Expense,2020-02-14,168.87,Social Security Tax,Tax
+Expense,2020-02-14,39.50,Medicare Tax,Tax
+Expense,2020-02-14,69.00,MN State Income Tax,Tax
+Expense,2020-02-14,153.85,401k,Savings
+Expense,2020-02-14,11.85,Dental Insurance,Health/Medical
+Expense,2020-02-14,220.00,HSA,Health/Medical
+Expense,2020-02-14,122.18,Health Insurance,Health/Medical
+Expense,2020-02-14,13.05,Five Guys,Food
+Expense,2020-02-14,31.00,Pro Hairtie Hutto TX,Recreation
+Expense,2020-02-15,70.00,Kyoto,Food
+Expense,2020-02-15,8.00,Parking,Transportation
+Expense,2020-02-15,10.74,Photoshop,Recreation
+Expense,2020-02-16,66.29,Target,Personal
+Expense,2020-02-16,38.94,Gas,Transportation
+Expense,2020-02-17,30.00,St. Thomas,Charity
+Expense,2020-02-17,4.60,Walmart,Food
+Expense,2020-02-17,5.41,Polaris BC,Food
+Expense,2020-02-17,30.00,Target,Personal
+Expense,2020-02-17,86.82,Target,Food
+Expense,2020-02-18,13.97,Netflix,Recreation
+Expense,2020-02-18,6.33,White Castle,Food
+Expense,2020-02-19,7.53,Disney Plus,Recreation
+Expense,2020-02-19,19.41,Noodles and Company,Food
+Expense,2020-02-19,5.41,Polaris BC,Food
+Expense,2020-02-21,36.63,Federal Income Tax,Tax
+Expense,2020-02-21,51.09,Social Security Tax,Tax
+Expense,2020-02-21,11.95,Medicare Tax,Tax
+Expense,2020-02-21,19.60,MN State Income Tax,Tax
+Expense,2020-02-21,5.41,PolarisBC,Food
+Expense,2020-02-21,65.02,Target,Food
+Expense,2020-02-21,30.00,Target,Personal
+Expense,2020-02-22,10.77,Origin,Recreation
+Expense,2020-02-22,16.16,Origin,Recreation
+Expense,2020-02-22,8.16,Leeann Chin,Food
+Expense,2020-02-22,14.98,Target,Food
+Expense,2020-02-22,80.49,Target,Food
+Expense,2020-02-23,5.16,Starbucks,Food
+Expense,2020-02-23,3.21,Apple,Recreation
+Expense,2020-02-23,47.69,Target,Personal
+Expense,2020-02-24,30.00,St. Thomas,Charity
+Expense,2020-02-24,8.26,Mcdonalds,Food
+Expense,2020-02-24,36.69,Gas,Transportation
+Expense,2020-02-24,0.99,Icloud,Recreation
+Expense,2020-02-24,6.97,White Castle,Food
+Expense,2020-02-24,18.26,Haskell's Wine,Food
+Expense,2020-02-25,5.41,PolarisBC,Food
+Expense,2020-02-25,29.39,Target,Food
+Expense,2020-02-26,7.65,PolarisBC,Food
+Expense,2020-02-26,2.14,PolarisBC,Food
+Expense,2020-02-27,9.13,Popeyes,Food
+Expense,2020-02-28,178.63,Federal Income Tax,Tax
+Expense,2020-02-28,168.87,Social Security Tax,Tax
+Expense,2020-02-28,39.49,Medicare Tax,Tax
+Expense,2020-02-28,110.00,MN State Income Tax,Tax
+Expense,2020-02-28,153.85,401k,Savings
+Expense,2020-02-28,11.85,Dental Insurance,Health/Medical
+Expense,2020-02-28,220.00,HSA,Health/Medical
+Expense,2020-02-28,122.18,Health Insurance,Health/Medical
+Expense,2020-02-28,30.00,CFF,Charity
+Expense,2020-02-28,205.00,GRE,Other
+Expense,2020-02-28,8.50,SCSU Transcript,Other
+Expense,2020-02-28,10.25,NHCC Transcript,Other
+Expense,2020-03-01,70.94,Target,Food
+Expense,2020-03-01,32.26,Steam,Recreation
+Expense,2020-03-01,6.06,Holiday,Food
+Expense,2020-03-02,30.00,St. Thomas,Charity
+Expense,2020-03-02,20.00,Quip,Personal
+Expense,2020-03-02,1665.00,Rent,Home
+Expense,2020-03-02,-680.00,Jenna Rent,Home
+Expense,2020-03-02,63.55,State Farm Life Insurance,Health/Medical
+Expense,2020-03-02,556.25,Carmax Auto,Debt
+Expense,2020-03-02,343.17,Nelnet Student Loan,Debt
+Expense,2020-03-02,100.57,Great Lakes Student Loan,Debt
+Expense,2020-03-02,123.50,Progressive,Transportation
+Expense,2020-03-02,65.00,Century Link Internet,Utilities
+Expense,2020-03-02,98.65,Target,Food
+Expense,2020-03-02,6.63,Target,Food
+Expense,2020-03-02,3.53,PolarisBC,Food
+Expense,2020-03-03,2.18,PolarisBC,Food
+Expense,2020-03-03,6.30,PolarisBC,Food
+Expense,2020-03-03,12.69,Target,Food
+Expense,2020-03-03,38.17,Gas,Transportation
+Expense,2020-03-04,71.63,Centerpoint Energy,Utilities
+Expense,2020-03-04,60.42,Xcel Energy,Utilities
+Expense,2020-03-04,-78.82,Jenna Utilities,Utilities
+Expense,2020-03-06,39.43,Federal Income Tax,Tax
+Expense,2020-03-06,52.82,Social Security Tax,Tax
+Expense,2020-03-06,12.36,Medicare Tax,Tax
+Expense,2020-03-06,21.10,MN State Income Tax,Tax
+Expense,2020-03-06,9.73,Starbucks,Food
+Expense,2020-03-06,21.49,Steam,Recreation
+Expense,2020-03-06,5.08,PolarisBC,Food
+Expense,2020-03-06,76.25,Target,Food
+Expense,2020-03-07,7.69,Chipotle,Food
+Expense,2020-03-07,13.25,Walgreens,Health/Medical
+Expense,2020-03-07,225.00,Target,Personal
+Expense,2020-03-08,6.74,White Castle,Food
+Expense,2020-03-09,30.00,St. Thomas,Charity
+Expense,2020-03-09,19.41,Noodles and Company,Food
+Expense,2020-03-10,5.26,White Castle,Food
+Expense,2020-03-10,2.18,PolarisBC,Food
+Expense,2020-03-10,65.00,Penn State University,Other
+Expense,2020-03-10,128.67,Target,Food
+Expense,2020-03-11,38.80,Gas,Transportation
+Expense,2020-03-11,7.52,Raising Canes,Food
+Expense,2020-03-11,118.14,Target,Personal
+Expense,2020-03-12,6.30,PolarisBC,Food
+Expense,2020-03-12,8.15,Culvers,Food
+Expense,2020-03-13,178.63,Federal Income Tax,Tax
+Expense,2020-03-13,168.87,Social Security Tax,Tax
+Expense,2020-03-13,39.49,Medicare Tax,Tax
+Expense,2020-03-13,110.00,MN State Income Tax,Tax
+Expense,2020-03-13,153.85,401k,Savings
+Expense,2020-03-13,11.85,Dental Insurance,Health/Medical
+Expense,2020-03-13,220.00,HSA,Health/Medical
+Expense,2020-03-13,122.18,Health Insurance,Health/Medical
+Expense,2020-03-13,50.00,St. Thomas University,Other
+Expense,2020-03-13,10.25,NHCC Transcript,Other
+Expense,2020-03-13,8.50,SCSU Transcript,Other
+Expense,2020-03-14,10.74,Photoshop,Recreation
+Expense,2020-03-14,174.85,Target,Personal
+Expense,2020-03-16,75.00,Northwestern University,Other
+Expense,2020-03-16,30.00,St. Thomas,Charity
+Expense,2020-03-17,26.87,Steam,Recreation
+Expense,2020-03-17,26.87,Steam,Recreation
+Expense,2020-03-17,18.27,Steam,Recreation
+Expense,2020-03-17,30.00,CFF,Charity
+Expense,2020-03-17,14.98,Target,Food
+Expense,2020-03-17,131.00,Target,Food
+Expense,2020-03-18,1.00,Origin,Recreation
+Expense,2020-03-19,7.53,Disney Plus,Recreation
+Expense,2020-03-19,5.38,Origin,Recreation
+Expense,2020-03-20,30.13,Federal Income Tax,Tax
+Expense,2020-03-20,47.06,Social Security Tax,Tax
+Expense,2020-03-20,11.00,Medicare Tax,Tax
+Expense,2020-03-20,16.12,MN State Income Tax,Tax
+Expense,2020-03-22,215.87,Target,Food
+Expense,2020-03-23,30.00,St. Thomas,Charity
+Expense,2020-03-24,0.99,Icloud,Recreation
+Expense,2020-03-24,150.65,Target,Personal
+Expense,2020-03-24,6.63,Target,Food
+Expense,2020-03-27,178.63,Federal Income Tax,Tax
+Expense,2020-03-27,168.87,Social Security Tax,Tax
+Expense,2020-03-27,39.49,Medicare Tax,Tax
+Expense,2020-03-27,110.00,MN State Income Tax,Tax
+Expense,2020-03-27,153.85,401k,Savings
+Expense,2020-03-27,11.85,Dental Insurance,Health/Medical
+Expense,2020-03-27,220.00,HSA,Health/Medical
+Expense,2020-03-27,122.18,Health Insurance,Health/Medical
+Expense,2020-03-27,7.99,Minecraft Realms,Recreation
+Expense,2020-03-27,16.12,Steam,Recreation
+Expense,2020-03-27,132.71,Target,Food
+Expense,2020-03-27,132.78,Target,Recreation
+Expense,2020-03-27,10.21,Target,Personal
+Expense,2020-03-27,35.17,Home Depot,Personal
+Expense,2020-03-28,9.24,Culvers,Food
+Expense,2020-03-28,53.31,Home Depot,Home
+Expense,2020-04-01,1645.00,Rent,Home
+Expense,2020-04-01,343.17,Nelnet Student Loan,Debt
+Expense,2020-04-01,100.57,Great Lakes Student Loan,Debt
+Expense,2020-04-01,556.25,Carmax Auto,Debt
+Expense,2020-04-01,43.00,Steam,Recreation
+Expense,2020-04-01,45.12,Target,Food
+Expense,2020-04-01,6.63,Target,Food
+Expense,2020-04-01,53.73,Target,Personal
+Expense,2020-04-01,8.21,Target,Personal
+Expense,2020-04-02,-680.00,Jenna Rent,Home
+Expense,2020-04-02,63.55,State Farm Life Insurance,Health/Medical
+Expense,2020-04-02,123.47,Progressive,Transportation
+Expense,2020-04-03,6.88,Federal Income Tax,Tax
+Expense,2020-04-03,32.64,Social Security Tax,Tax
+Expense,2020-04-03,7.64,Medicare Tax,Tax
+Expense,2020-04-03,3.68,MN State Income Tax,Tax
+Expense,2020-04-03,30.23,Target,Food
+Expense,2020-04-04,3000.00,Down Payment,Home
+Expense,2020-04-04,703.00,Home Inspection,Home
+Expense,2020-04-04,5.00,Trusfunds fee,Home
+Expense,2020-04-04,9121.50,Down Payment,Home
+Expense,2020-04-04,18.87,Noodles and Company,Food
+Expense,2020-04-04,5.13,Target,Food
+Expense,2020-04-05,25.75,Waste Management,Home
+Expense,2020-04-05,1.05,USPS,Home
+Expense,2020-04-06,30.00,St. Thomas,Charity
+Expense,2020-04-06,31.52,Jimmy Johns,Food
+Expense,2020-04-06,32.47,Gas,Transportation
+Expense,2020-04-06,115.18,Home Depot,Home
+Expense,2020-04-06,1.46,Walmart,Food
+Expense,2020-04-06,198.02,Target,Food
+Expense,2020-04-07,10.40,Mcdonalds,Food
+Expense,2020-04-08,50.24,Target,Food
+Expense,2020-04-09,6.44,Arbys,Food
+Expense,2020-04-10,178.63,Federal Income Tax,Tax
+Expense,2020-04-10,168.87,Social Security Tax,Tax
+Expense,2020-04-10,39.49,Medicare Tax,Tax
+Expense,2020-04-10,110.00,MN State Income Tax,Tax
+Expense,2020-04-10,153.85,401k,Savings
+Expense,2020-04-10,11.85,Dental Insurance,Health/Medical
+Expense,2020-04-10,220.00,HSA,Health/Medical
+Expense,2020-04-10,122.18,Health Insurance,Health/Medical
+Expense,2020-04-10,4.50,White Castle,Food
+Expense,2020-04-11,6.63,Target,Food
+Expense,2020-04-11,308.31,Target,Personal
+Expense,2020-04-13,65.72,Xcel Energy,Utilities
+Expense,2020-04-13,47.12,Centerpoint Energy,Utilities
+Expense,2020-04-13,74.33,Century Link Internet,Utilities
+Expense,2020-04-13,-74.87,Jenna Utilities,Utilities
+Expense,2020-04-13,30.00,St. Thomas,Charity
+Expense,2020-04-15,248.94,State Farm Auto,Transportation
+Expense,2020-04-15,47.12,Century Link Internet,Utilities
+Expense,2020-04-15,248.94,State Farm Auto,Transportation
+Expense,2020-04-15,41.37,Home Depot,Personal
+Expense,2020-04-15,20.82,Jimmy Johns,Food
+Expense,2020-04-15,10.74,Photoshop,Recreation
+Expense,2020-04-16,182.73,Honest Company,Personal
+Expense,2020-04-16,30.00,CFF,Charity
+Expense,2020-04-16,121.33,Target,Food
+Expense,2020-04-17,3.73,Federal Income Tax,Tax
+Expense,2020-04-17,30.69,Social Security Tax,Tax
+Expense,2020-04-17,7.17,Medicare Tax,Tax
+Expense,2020-04-17,2.00,MN State Income Tax,Tax
+Expense,2020-04-17,13.97,Netflix,Recreation
+Expense,2020-04-17,41.92,Etsy,Recreation
+Expense,2020-04-17,9.89,Chipotle,Food
+Expense,2020-04-18,7.69,Chipotle,Food
+Expense,2020-04-18,6.63,Target,Food
+Expense,2020-04-18,152.02,Target,Food
+Expense,2020-04-18,204.29,Target,Personal
+Expense,2020-04-18,91.88,Target,Personal
+Expense,2020-04-18,60.22,Target,Personal
+Expense,2020-04-19,333.01,Gap,Personal
+Expense,2020-04-20,200.00,Steve Hauck,Tax
+Expense,2020-04-20,-10.00,Noodles and Company,Food
+Expense,2020-04-20,30.70,Noodles and Company,Food
+Expense,2020-04-20,28.59,Target,Personal
+Expense,2020-04-20,30.00,St. Thomas,Charity
+Expense,2020-04-20,7.53,Disney Plus,Recreation
+Expense,2020-04-21,-105.97,Progressive,Transportation
+Expense,2020-04-24,178.63,Federal Income Tax,Tax
+Expense,2020-04-24,168.87,Social Security Tax,Tax
+Expense,2020-04-24,39.49,Medicare Tax,Tax
+Expense,2020-04-24,110.00,MN State Income Tax,Tax
+Expense,2020-04-24,153.85,401k,Savings
+Expense,2020-04-24,11.85,Dental Insurance,Health/Medical
+Expense,2020-04-24,220.00,HSA,Health/Medical
+Expense,2020-04-24,122.18,Health Insurance,Health/Medical
+Expense,2020-04-24,127.82,Target,Food
+Expense,2020-04-24,6.63,Target,Food
+Expense,2020-04-24,0.99,Icloud,Recreation
+Expense,2020-04-25,38.92,Pureformulas,Personal
+Expense,2020-04-25,397.83,Wayfair,Personal
+Expense,2020-04-26,226.34,Target,Personal
+Expense,2020-04-26,6.10,Caribou,Food
+Expense,2020-04-26,7.99,Minecraft Realms,Recreation
+Expense,2020-04-27,289.41,Target,Personal
+Expense,2020-04-27,30.00,St. Thomas,Charity
+Expense,2020-04-28,117.45,Target,Personal
+Expense,2020-04-28,37.77,Target,Personal
+Expense,2020-04-28,7.14,Target,Personal
+Expense,2020-04-29,106.63,Target,Personal
+Expense,2020-04-29,20.42,Target,Personal
+Expense,2020-04-29,21.54,Origin,Recreation
+Expense,2020-04-30,-2305.00,Federal Income Tax,Tax
+Expense,2020-04-30,-730.00,MN State Income Tax,Tax
+Expense,2020-04-30,181.72,Target,Food
+Expense,2020-04-30,31.90,Gas,Transportation
+Expense,2020-05-01,31.28,Federal Income Tax,Tax
+Expense,2020-05-01,47.77,Social Security Tax,Tax
+Expense,2020-05-01,11.18,Medicare Tax,Tax
+Expense,2020-05-01,16.73,MN State Income Tax,Tax
+Expense,2020-05-02,2034.18,Lawn Mower,Home
+Expense,2020-05-02,24.09,Gas,Transportation
+Expense,2020-05-02,23.50,Home Depot,Home
+Expense,2020-05-03,9.67,Amazon,Personal
+Expense,2020-05-03,70.12,Amazon,Personal
+Expense,2020-05-03,147.16,Target,Food
+Expense,2020-05-03,6.63,Target,Food
+Expense,2020-05-04,-1645.00,Safety Deposit,Home
+Expense,2020-05-04,1000.00,Carmax Auto,Debt
+Expense,2020-05-04,30.00,St. Thomas,Charity
+Expense,2020-05-04,84.52,Xcel Energy,Utilities
+Expense,2020-05-04,69.69,Centerpoint Energy,Utilities
+Expense,2020-05-04,82.17,Century Link Internet,Utilities
+Expense,2020-05-04,97.02,Target,Personal
+Expense,2020-05-04,1.21,Target,Personal
+Expense,2020-05-05,16.12,Adobe Acrobat,Recreation
+Expense,2020-05-05,35.56,Target,Food
+Expense,2020-05-06,6.66,Raising Canes,Food
+Expense,2020-05-07,-94.55,Jenna Utilities,Utilities
+Expense,2020-05-07,110.93,Home Depot,Home
+Expense,2020-05-07,7.69,Chipotle,Food
+Expense,2020-05-07,25.82,Ryan and Rose,Personal
+Expense,2020-05-07,108.93,Target,Food
+Expense,2020-05-08,178.63,Federal Income Tax,Tax
+Expense,2020-05-08,168.87,Social Security Tax,Tax
+Expense,2020-05-08,39.49,Medicare Tax,Tax
+Expense,2020-05-08,110.00,MN State Income Tax,Tax
+Expense,2020-05-08,153.85,401k,Savings
+Expense,2020-05-08,11.85,Dental Insurance,Health/Medical
+Expense,2020-05-08,220.00,HSA,Health/Medical
+Expense,2020-05-08,122.18,Health Insurance,Health/Medical
+Expense,2020-05-11,11.61,Chipotle,Food
+Expense,2020-05-11,30.00,St. Thomas,Charity
+Expense,2020-05-12,207.97,Target,Food
+Expense,2020-05-13,21.49,Apple,Recreation
+Expense,2020-05-14,89.69,Target,Food
+Expense,2020-05-14,6.63,Target,Food
+Expense,2020-05-15,31.23,Federal Income Tax,Tax
+Expense,2020-05-15,47.74,Social Security Tax,Tax
+Expense,2020-05-15,11.16,Medicare Tax,Tax
+Expense,2020-05-15,16.71,MN State Income Tax,Tax
+Expense,2020-05-15,32.20,Disney Store,Recreation
+Expense,2020-05-16,30.00,CFF,Charity
+Expense,2020-05-16,100.33,Target,Food
+Expense,2020-05-18,13.97,Netflix,Recreation
+Expense,2020-05-18,70.34,Steam,Recreation
+Expense,2020-05-18,30.00,St. Thomas,Charity
+Expense,2020-05-18,2.67,Caribou,Food
+Expense,2020-05-18,310.60,Home Depot,Personal
+Expense,2020-05-18,111.54,Target,Food
+Expense,2020-05-19,92.38,Kyoto Sushi,Food
+Expense,2020-05-19,-20.00,Kyoto Sushi,Food
+Expense,2020-05-19,14.25,Chipotle,Food
+Expense,2020-05-19,149.62,Target,Food
+Expense,2020-05-19,11.84,Target,Food
+Expense,2020-05-20,7.53,Disney Plus,Recreation
+Expense,2020-05-20,179.13,Amazon,Recreation
+Expense,2020-05-20,56.69,Target,Food
+Expense,2020-05-21,7.83,Mcdonalds,Food
+Expense,2020-05-22,178.63,Federal Income Tax,Tax
+Expense,2020-05-22,168.87,Social Security Tax,Tax
+Expense,2020-05-22,39.49,Medicare Tax,Tax
+Expense,2020-05-22,110.00,MN State Income Tax,Tax
+Expense,2020-05-22,153.85,401k,Savings
+Expense,2020-05-22,11.85,Dental Insurance,Health/Medical
+Expense,2020-05-22,220.00,HSA,Health/Medical
+Expense,2020-05-22,122.18,Health Insurance,Health/Medical
+Expense,2020-05-22,40.38,Target,Food
+Expense,2020-05-23,39.70,Jimmy Johns,Food
+Expense,2020-05-24,82.88,Home Depot,Personal
+Expense,2020-05-24,1.00,Home Depot,Personal
+Expense,2020-05-24,149.81,Home Depot,Personal
+Expense,2020-05-24,8.82,Home Depot,Personal
+Expense,2020-05-25,30.00,St. Thomas,Charity
+Expense,2020-05-25,0.99,Icloud,Recreation
+Expense,2020-05-25,14.98,Target,Food
+Expense,2020-05-25,492.34,Target,Personal
+Expense,2020-05-25,25.87,Noodles and Company,Food
+Expense,2020-05-25,166.49,Amazon,Recreation
+Expense,2020-05-26,75.21,Steam,Recreation
+Expense,2020-05-26,7.99,Minecraft Realms,Recreation
+Expense,2020-05-27,9.97,Culvers,Food
+Expense,2020-05-27,6.03,White Castle,Food
+Expense,2020-05-27,21.71,Target,Personal
+Expense,2020-05-29,65.23,Federal Income Tax,Tax
+Expense,2020-05-29,68.82,Social Security Tax,Tax
+Expense,2020-05-29,16.10,Medicare Tax,Tax
+Expense,2020-05-29,34.90,MN State Income Tax,Tax
+Expense,2020-05-29,10.77,Origin,Recreation
+Expense,2020-05-30,170.48,Lowes,Personal
+Expense,2020-05-31,7.69,Chipotle,Food
+Expense,2020-05-31,117.85,Target,Food
+Expense,2020-05-31,206.30,Target,Personal
+Expense,2020-05-31,1201.67,Adjustment,Other
+Expense,2020-06-01,2028.86,Mortgage Payment,Home
+Expense,2020-06-01,75.21,Etsy,Recreation
+Expense,2020-06-01,30.00,St. Thomas,Charity
+Expense,2020-06-02,124.47,State Farm Auto,Transportation
+Expense,2020-06-02,84.73,State Farm Life Insurance,Health/Medical
+Expense,2020-06-02,92.06,Xcel Energy,Utilities
+Expense,2020-06-02,85.00,Century Link Internet,Utilities
+Expense,2020-06-02,1000.00,Carmax Auto,Debt
+Expense,2020-06-02,37.52,Noodles and Company,Food
+Expense,2020-06-02,20.00,Quip,Personal
+Expense,2020-06-04,43.10,Origin,Recreation
+Expense,2020-06-05,178.63,Federal Income Tax,Tax
+Expense,2020-06-05,168.87,Social Security Tax,Tax
+Expense,2020-06-05,39.49,Medicare Tax,Tax
+Expense,2020-06-05,110.00,MN State Income Tax,Tax
+Expense,2020-06-05,153.85,401k,Savings
+Expense,2020-06-05,11.85,Dental Insurance,Health/Medical
+Expense,2020-06-05,220.00,HSA,Health/Medical
+Expense,2020-06-05,122.18,Health Insurance,Health/Medical
+Expense,2020-06-05,48.22,Centerpoint Energy,Utilities
+Expense,2020-06-05,-90.11,Jenna Utilities,Utilities
+Expense,2020-06-05,26.51,Gap,Personal
+Expense,2020-06-05,8.54,Gap,Personal
+Expense,2020-06-05,16.12,Adobe Acrobat,Recreation
+Expense,2020-06-05,226.77,Target,Personal
+Expense,2020-06-05,6.63,Target,Food
+Expense,2020-06-06,28.36,Pizza Hut,Food
+Expense,2020-06-06,70.73,Gap,Personal
+Expense,2020-06-06,60.91,Target,Food
+Expense,2020-06-07,26.22,Gap,Personal
+Expense,2020-06-07,94.84,Target,Food
+Expense,2020-06-08,30.00,St. Thomas,Charity
+Expense,2020-06-08,36.03,Gas,Transportation
+Expense,2020-06-08,407.18,Lowes,Personal
+Expense,2020-06-09,76.61,Target,Food
+Expense,2020-06-10,23.75,Doordash,Food
+Expense,2020-06-11,8.61,Origin,Recreation
+Expense,2020-06-11,21.07,Doordash,Food
+Expense,2020-06-12,27.33,Federal Income Tax,Tax
+Expense,2020-06-12,45.32,Social Security Tax,Tax
+Expense,2020-06-12,10.59,Medicare Tax,Tax
+Expense,2020-06-12,14.62,MN State Income Tax,Tax
+Expense,2020-06-13,246.68,Target,Personal
+Expense,2020-06-13,12.86,Target,Food
+Expense,2020-06-13,6.63,Target,Food
+Expense,2020-06-15,30.00,St. Thomas,Charity
+Expense,2020-06-15,10.74,Photoshop,Recreation
+Expense,2020-06-15,24.04,Noodles and Company,Food
+Expense,2020-06-15,68.82,Home Depot,Personal
+Expense,2020-06-15,127.54,Lowes,Personal
+Expense,2020-06-16,7.69,Chipotle,Food
+Expense,2020-06-16,8.16,Leeann Chin,Food
+Expense,2020-06-17,30.00,CFF,Charity
+Expense,2020-06-17,86.25,Target,Food
+Expense,2020-06-17,13.97,Netflix,Recreation
+Expense,2020-06-18,4.43,Target,Personal
+Expense,2020-06-18,9.87,Target,Personal
+Expense,2020-06-18,13.16,Target,Personal
+Expense,2020-06-19,13.97,Amazon Prime,Recreation
+Expense,2020-06-19,7.69,Chipotle,Food
+Expense,2020-06-19,75.86,Target,Food
+Expense,2020-06-19,15.37,Federal Income Tax,Tax
+Expense,2020-06-19,73.49,Social Security Tax,Tax
+Expense,2020-06-19,17.19,Medicare Tax,Tax
+Expense,2020-06-19,26.00,MN State Income Tax,Tax
+Expense,2020-06-19,76.93,401k,Savings
+Expense,2020-06-19,11.85,Dental Insurance,Health/Medical
+Expense,2020-06-19,220.00,HSA,Health/Medical
+Expense,2020-06-19,122.18,Health Insurance,Health/Medical
+Expense,2020-06-20,7.53,Disney Plus,Recreation
+Expense,2020-06-20,25.78,Pizza Hut,Food
+Expense,2020-06-20,106.45,Aptive,Home
+Expense,2020-06-20,229.22,Target,Food
+Expense,2020-06-21,19.25,Target,Food
+Expense,2020-06-21,14.98,Target,Food
+Expense,2020-06-21,27.02,Target,Food
+Expense,2020-06-22,30.00,St. Thomas,Charity
+Expense,2020-06-24,7.52,Raising Canes,Food
+Expense,2020-06-24,85.23,Target,Food
+Expense,2020-06-24,0.99,Icloud,Recreation
+Expense,2020-06-24,8.59,Apple,Recreation
+Expense,2020-06-25,80.27,Target,Personal
+Expense,2020-06-25,7.99,Minecraft Realms,Recreation
+Expense,2020-06-26,211.52,Federal Income Tax,Tax
+Expense,2020-06-26,145.52,Social Security Tax,Tax
+Expense,2020-06-26,34.04,Medicare Tax,Tax
+Expense,2020-06-26,106.50,MN State Income Tax,Tax
+Expense,2020-06-26,109.22,Target,Food
+Expense,2020-06-27,6.43,White Castle,Food
+Expense,2020-06-27,166.22,Target,Personal
+Expense,2020-06-27,19.16,Target,Food
+Expense,2020-06-29,30.00,St. Thomas,Charity
+Expense,2020-06-30,37.63,Home Depot,Recreation
+Expense,2020-06-30,112.39,Target,Food
+Expense,2020-06-30,299.34,Adjustment,Other
+Expense,2020-07-01,15.37,Federal Income Tax,Tax
+Expense,2020-07-01,73.49,Social Security Tax,Tax
+Expense,2020-07-01,17.19,Medicare Tax,Tax
+Expense,2020-07-01,26.00,MN State Income Tax,Tax
+Expense,2020-07-01,2028.86,Mortgage Payment,Home
+Expense,2020-07-01,-680.00,Jenna Rent,Home
+Expense,2020-07-01,166.18,State Farm Insurance,Transportation
+Expense,2020-07-01,124.98,Xcel Energy,Utilities
+Expense,2020-07-01,65.00,Century Link Internet,Utilities
+Expense,2020-07-01,36.31,Gas,Transportation
+Expense,2020-07-01,7.69,Chipotle,Food
+Expense,2020-07-01,26.91,Doordash,Food
+Expense,2020-07-01,66.73,Target,Food
+Expense,2020-07-01,43.91,Target,Personal
+Expense,2020-07-03,1000.00,Carmax Auto,Debt
+Expense,2020-07-03,150.54,LOVEVERY,Personal
+Expense,2020-07-03,328.68,Target,Personal
+Expense,2020-07-04,34.97,Centerpoint Energy,Utilities
+Expense,2020-07-04,-89.98,Jenna Utilities,Utilities
+Expense,2020-07-04,57.98,Prep Sportswear,Personal
+Expense,2020-07-04,48.08,Target,Food
+Expense,2020-07-05,16.12,Adobe Acrobat,Recreation
+Expense,2020-07-06,30.00,St. Thomas,Charity
+Expense,2020-07-07,67.47,Halo Innovations,Personal
+Expense,2020-07-07,8.05,Chick-fil-A,Food
+Expense,2020-07-07,6.63,Target,Food
+Expense,2020-07-07,128.57,Target,Food
+Expense,2020-07-09,-2882.25,Nelnet,Other
+Expense,2020-07-10,213.08,Federal Income Tax,Tax
+Expense,2020-07-10,146.32,Social Security Tax,Tax
+Expense,2020-07-10,34.22,Medicare Tax,Tax
+Expense,2020-07-10,107.38,MN State Income Tax,Tax
+Expense,2020-07-11,230.77,Target,Personal
+Expense,2020-07-11,86.80,Target,Food
+Expense,2020-07-12,2150.36,Nikon,Recreation
+Expense,2020-07-12,137.61,Target,Food
+Expense,2020-07-13,30.00,St. Thomas,Charity
+Expense,2020-07-14,21.72,Rusty Taco,Food
+Expense,2020-07-15,20.97,Rusty Taco,Food
+Expense,2020-07-15,10.74,Adobe Acrobat,Recreation
+Expense,2020-07-16,164.47,Target,Food
+Expense,2020-07-17,178.63,Federal Income Tax,Tax
+Expense,2020-07-17,168.87,Social Security Tax,Tax
+Expense,2020-07-17,39.49,Medicare Tax,Tax
+Expense,2020-07-17,110.00,MN State Income Tax,Tax
+Expense,2020-07-17,153.85,401k,Savings
+Expense,2020-07-17,11.85,Dental Insurance,Health/Medical
+Expense,2020-07-17,220.00,HSA,Health/Medical
+Expense,2020-07-17,122.18,Health Insurance,Health/Medical
+Expense,2020-07-17,13.97,Netflix,Recreation
+Expense,2020-07-18,160.46,Doordash,Food
+Expense,2020-07-18,6.63,Paypal,Recreation
+Expense,2020-07-18,30.00,Jenna Groceries,Food
+Expense,2020-07-18,-20.00,Doordash,Food
+Expense,2020-07-18,-20.00,Doordash,Food
+Expense,2020-07-18,-25.00,Doordash,Food
+Expense,2020-07-19,7.53,Disney Plus,Recreation
+Expense,2020-07-19,13.97,Amazon Prime,Recreation
+Expense,2020-07-19,69.82,Target,Food
+Expense,2020-07-19,6.63,Target,Food
+Expense,2020-07-20,30.00,St. Thomas,Charity
+Expense,2020-07-21,93.66,Target,Food
+Expense,2020-07-22,30.00,CFF,Charity
+Expense,2020-07-22,9.24,Culvers,Food
+Expense,2020-07-24,24.12,Social Security Tax,Tax
+Expense,2020-07-24,5.64,Medicare Tax,Tax
+Expense,2020-07-24,7.99,Minecraft Realms,Recreation
+Expense,2020-07-24,23.29,Doordash,Food
+Expense,2020-07-24,0.99,Icloud,Recreation
+Expense,2020-07-24,6.63,Target,Food
+Expense,2020-07-24,315.62,Target,Personal
+Expense,2020-07-25,262.58,Fairview,Health/Medical
+Expense,2020-07-25,88.22,Childrens,Health/Medical
+Expense,2020-07-25,186.18,RMP collections,Health/Medical
+Expense,2020-07-25,373.00,EPPA Emergency,Health/Medical
+Expense,2020-07-26,56.44,Doordash,Food
+Expense,2020-07-26,-21.00,Doordash,Food
+Expense,2020-07-27,30.00,St. Thomas,Charity
+Expense,2020-07-27,541.61,Prairie Care,Health/Medical
+Expense,2020-07-27,3320.71,Prairie Care,Health/Medical
+Expense,2020-07-27,311.07,Allina,Health/Medical
+Expense,2020-07-27,116.16,Northwest Eye,Health/Medical
+Expense,2020-07-27,152.37,Target,Personal
+Expense,2020-07-29,32.25,Steam,Recreation
+Expense,2020-07-29,29.39,Doordash,Food
+Expense,2020-07-29,1037.83,Kidspeak,Health/Medical
+Expense,2020-07-30,10.77,Origin,Recreation
+Expense,2020-07-30,128.34,Target,Food
+Expense,2020-07-31,178.63,Federal Income Tax,Tax
+Expense,2020-07-31,168.87,Social Security Tax,Tax
+Expense,2020-07-31,39.49,Medicare Tax,Tax
+Expense,2020-07-31,110.00,MN State Income Tax,Tax
+Expense,2020-07-31,153.85,401k,Savings
+Expense,2020-07-31,11.85,Dental Insurance,Health/Medical
+Expense,2020-07-31,220.00,HSA,Health/Medical
+Expense,2020-07-31,122.18,Health Insurance,Health/Medical
+Expense,2020-07-31,82.01,Waste Management,Utilities
+Expense,2020-07-31,104.55,City of Maple Grove,Utilities
+Expense,2020-07-31,-324.65,EPPA Emergency,Health/Medical
+Expense,2020-07-31,46.79,Adjustment,Other
+Expense,2020-08-01,32.25,Steam,Recreation
+Expense,2020-08-01,62.70,Copper Pearl,Personal
+Expense,2020-08-01,3.29,Paypal,Recreation
+Expense,2020-08-01,203.14,Lakeshore Learning,Personal
+Expense,2020-08-01,304.43,Target,Personal
+Expense,2020-08-01,2028.86,Mortgage Payment,Home
+Expense,2020-08-01,-680.00,Jenna Rent,Home
+Expense,2020-08-01,209.20,State Farm Insurance,Transportation
+Expense,2020-08-01,168.09,Xcel Energy,Utilities
+Expense,2020-08-01,65.00,Century Link Internet,Utilities
+Expense,2020-08-01,49.25,Burts Bees,Personal
+Expense,2020-08-03,30.00,St. Thomas,Charity
+Expense,2020-08-04,90.60,Target,Food
+Expense,2020-08-04,6.63,Target,Food
+Expense,2020-08-05,33.07,Centerpoint Energy,Utilities
+Expense,2020-08-05,-106.46,Jenna Utilities,Utilities
+Expense,2020-08-05,26.91,Doordash,Food
+Expense,2020-08-05,16.12,Adobe Acrobat,Recreation
+Expense,2020-08-06,147.08,Home Depot,Personal
+Expense,2020-08-07,95.12,Federal Income Tax,Tax
+Expense,2020-08-07,85.37,Social Security Tax,Tax
+Expense,2020-08-07,19.96,Medicare Tax,Tax
+Expense,2020-08-07,49.18,MN State Income Tax,Tax
+Expense,2020-08-07,34.19,Gas,Transportation
+Expense,2020-08-07,35.00,Zoo,Recreation
+Expense,2020-08-07,33.93,Zoo,Recreation
+Expense,2020-08-07,235.05,Target,Personal
+Expense,2020-08-08,119.00,Party City,Recreation
+Expense,2020-08-09,46.90,MN Zoo,Recreation
+Expense,2020-08-09,60.78,Target,Food
+Expense,2020-08-10,30.00,St. Thomas,Charity
+Expense,2020-08-11,34.11,Doordash,Food
+Expense,2020-08-11,13.95,Home Depot,Personal
+Expense,2020-08-11,33.96,Target,Food
+Expense,2020-08-12,1000.00,Carmax Auto,Debt
+Expense,2020-08-12,21.49,Steam,Recreation
+Expense,2020-08-12,6.63,Target,Food
+Expense,2020-08-14,178.63,Federal Income Tax,Tax
+Expense,2020-08-14,168.87,Social Security Tax,Tax
+Expense,2020-08-14,39.49,Medicare Tax,Tax
+Expense,2020-08-14,110.00,MN State Income Tax,Tax
+Expense,2020-08-14,153.85,401k,Savings
+Expense,2020-08-14,11.85,Dental Insurance,Health/Medical
+Expense,2020-08-14,220.00,HSA,Health/Medical
+Expense,2020-08-14,122.18,Health Insurance,Health/Medical
+Expense,2020-08-14,83.47,Target,Food
+Expense,2020-08-14,91.01,Target,Food
+Expense,2020-08-15,160.69,Gap,Personal
+Expense,2020-08-15,10.74,Photoshop,Recreation
+Expense,2020-08-15,34.65,Doordash,Food
+Expense,2020-08-16,88.67,Noodles,Food
+Expense,2020-08-16,-9.00,Noodles,Food
+Expense,2020-08-16,-32.00,Noodles,Food
+Expense,2020-08-17,30.00,St. Thomas,Charity
+Expense,2020-08-18,297.77,Target,Food
+Expense,2020-08-19,-23.10,IRS Treasury,Tax
+Expense,2020-08-21,42.73,Federal Income Tax,Tax
+Expense,2020-08-21,54.87,Social Security Tax,Tax
+Expense,2020-08-21,12.84,Medicare Tax,Tax
+Expense,2020-08-21,22.86,MN State Income Tax,Tax
+Expense,2020-08-22,30.00,CFF,Charity
+Expense,2020-08-22,211.34,Target,Food
+Expense,2020-08-23,6.73,Target,Food
+Expense,2020-08-23,7.99,Minecraft Realms,Recreation
+Expense,2020-08-24,30.00,St. Thomas,Charity
+Expense,2020-08-24,0.99,Icloud,Recreation
+Expense,2020-08-25,23.76,Waste Management,Utilities
+Expense,2020-08-25,163.87,Target,Food
+Expense,2020-08-25,6.63,Target,Food
+Expense,2020-08-26,138.71,Aptive,Personal
+Expense,2020-08-26,138.71,Aptive,Home
+Expense,2020-08-27,32.25,Steam,Recreation
+Expense,2020-08-28,178.63,Federal Income Tax,Tax
+Expense,2020-08-28,168.87,Social Security Tax,Tax
+Expense,2020-08-28,39.49,Medicare Tax,Tax
+Expense,2020-08-28,110.00,MN State Income Tax,Tax
+Expense,2020-08-28,153.85,401k,Savings
+Expense,2020-08-28,11.85,Dental Insurance,Health/Medical
+Expense,2020-08-28,220.00,HSA,Health/Medical
+Expense,2020-08-28,122.18,Health Insurance,Health/Medical
+Expense,2020-08-28,1.97,Burger King,Food
+Expense,2020-08-28,25.98,Good Earth,Food
+Expense,2020-08-28,8.91,Insomnia Cookies,Food
+Expense,2020-08-28,2.00,Parking,Transportation
+Expense,2020-08-29,71.05,Target,Food
+Expense,2020-08-30,-173.00,Delta Dental,Health/Medical
+Expense,2020-08-31,30.00,St. Thomas,Charity
+Expense,2020-08-31,-127.00,Adjustment,Other
+Expense,2020-09-01,294.00,Target,Food
+Expense,2020-09-01,68.00,Raycon,Recreation
+Expense,2020-09-01,2028.86,Mortgage Payment,Home
+Expense,2020-09-01,188.02,State Farm Insurance,Transportation
+Expense,2020-09-01,142.93,Xcel Energy,Utilities
+Expense,2020-09-01,65.00,Century Link Internet,Utilities
+Expense,2020-09-01,-680.00,Jenna Rent,Home
+Expense,2020-09-02,57.47,Grove Collaborative,Personal
+Expense,2020-09-02,261.72,Amazon,Personal
+Expense,2020-09-02,20.00,Quip,Personal
+Expense,2020-09-04,44.08,Federal Income Tax,Tax
+Expense,2020-09-04,55.71,Social Security Tax,Tax
+Expense,2020-09-04,13.02,Medicare Tax,Tax
+Expense,2020-09-04,23.58,MN State Income Tax,Tax
+Expense,2020-09-04,26.89,Waste Management,Utilities
+Expense,2020-09-04,32.12,Centerpoint Energy,Utilities
+Expense,2020-09-04,-106.78,Jenna Utilities,Utilities
+Expense,2020-09-04,1000.00,Carmax Auto,Debt
+Expense,2020-09-04,148.12,Target,Food
+Expense,2020-09-05,33.99,Doordash,Food
+Expense,2020-09-07,30.00,St. Thomas,Charity
+Expense,2020-09-07,95.55,Home Depot,Personal
+Expense,2020-09-07,235.11,Target,Personal
+Expense,2020-09-07,6.63,Target,Food
+Expense,2020-09-08,-3418.50,Polaris,Debt
+Expense,2020-09-08,3418.50,Great Lakes Student Loan,Debt
+Expense,2020-09-08,300.00,Facebook Furniture,Personal
+Expense,2020-09-08,20.00,Facebook Furniture,Personal
+Expense,2020-09-09,96.71,Home Depot,Personal
+Expense,2020-09-09,16.12,Adobe Acrobat,Personal
+Expense,2020-09-10,55.76,Whirlpool,Personal
+Expense,2020-09-10,44.79,Amazon,Personal
+Expense,2020-09-11,178.63,Federal Income Tax,Tax
+Expense,2020-09-11,168.87,Social Security Tax,Tax
+Expense,2020-09-11,39.49,Medicare Tax,Tax
+Expense,2020-09-11,110.00,MN State Income Tax,Tax
+Expense,2020-09-11,153.85,401k,Savings
+Expense,2020-09-11,11.85,Dental Insurance,Health/Medical
+Expense,2020-09-11,220.00,HSA,Health/Medical
+Expense,2020-09-11,122.18,Health Insurance,Health/Medical
+Expense,2020-09-12,38.92,Pure Formulas,Personal
+Expense,2020-09-12,241.91,Target,Food
+Expense,2020-09-13,32.04,Barnes and Noble,Recreation
+Expense,2020-09-13,9.64,Arbys,Food
+Expense,2020-09-14,30.00,St. Thomas,Charity
+Expense,2020-09-14,20.00,Gas,Transportation
+Expense,2020-09-15,10.74,Photoshop,Recreation
+Expense,2020-09-16,112.26,Target,Food
+Expense,2020-09-16,6.63,Target,Food
+Expense,2020-09-16,-2948.50,Nelnet Student Loan,Debt
+Expense,2020-09-17,43.75,Great Pumpkin Run,Recreation
+Expense,2020-09-17,9.13,Popeyes,Food
+Expense,2020-09-18,38.03,Federal Income Tax,Tax
+Expense,2020-09-18,51.95,Social Security Tax,Tax
+Expense,2020-09-18,12.15,Medicare Tax,Tax
+Expense,2020-09-18,20.35,MN State Income Tax,Tax
+Expense,2020-09-19,13.97,Amazon Prime,Recreation
+Expense,2020-09-19,7.49,Taco Bell,Food
+Expense,2020-09-19,148.51,Target,Food
+Expense,2020-09-20,7.53,Disney Plus,Recreation
+Expense,2020-09-20,12.95,Hulu,Recreation
+Expense,2020-09-20,17.31,Qdoba,Food
+Expense,2020-09-21,30.00,St. Thomas,Charity
+Expense,2020-09-21,13.08,Davannis,Food
+Expense,2020-09-21,36.98,Gas,Transportation
+Expense,2020-09-21,8.00,Parking,Transportation
+Expense,2020-09-22,30.00,CFF,Charity
+Expense,2020-09-22,1948.50,Nelnet Student Loan,Debt
+Expense,2020-09-23,7.99,Minecraft Realms,Recreation
+Expense,2020-09-24,0.99,icloud,Recreation
+Expense,2020-09-24,26.89,Waste Management,Utilities
+Expense,2020-09-24,139.89,Target,Food
+Expense,2020-09-25,178.63,Federal Income Tax,Tax
+Expense,2020-09-25,168.87,Social Security Tax,Tax
+Expense,2020-09-25,39.49,Medicare Tax,Tax
+Expense,2020-09-25,110.00,MN State Income Tax,Tax
+Expense,2020-09-25,153.85,401k,Savings
+Expense,2020-09-25,11.85,Dental Insurance,Health/Medical
+Expense,2020-09-25,220.00,HSA,Health/Medical
+Expense,2020-09-25,122.18,Health Insurance,Health/Medical
+Expense,2020-09-25,48.99,Gap,Personal
+Expense,2020-09-26,35.00,Coldstone,Food
+Expense,2020-09-27,76.90,Doordash,Food
+Expense,2020-09-27,-15.00,Doordash,Food
+Expense,2020-09-27,-25.00,Doordash,Food
+Expense,2020-09-27,130.24,Target,Food
+Expense,2020-09-28,30.00,St. Thomas,Charity
+Expense,2020-09-29,16.50,BWS,Home
+Expense,2020-09-29,43.82,Doordash,Food
+Expense,2020-09-30,106.35,Home Depot,Personal
+Expense,2020-09-30,177.79,Target,Personal
+Expense,2020-09-30,8.16,Target,Food
+Expense,2020-09-30,17.12,Adjustment,Other
+Expense,2020-10-01,1214.00,Carmax Auto,Debt
+Expense,2020-10-01,2028.86,Mortgage Payment,Home
+Expense,2020-10-01,-680.00,Jenna Rent,Home
+Expense,2020-10-01,188.02,State Farm Insurance,Transportation
+Expense,2020-10-01,124.49,Xcel Energy,Utilities
+Expense,2020-10-01,65.00,Century Link Internet,Utilities
+Expense,2020-10-01,66.87,Grove Collaborative,Personal
+Expense,2020-10-02,36.48,Federal Income Tax,Tax
+Expense,2020-10-02,51.00,Social Security Tax,Tax
+Expense,2020-10-02,11.93,Medicare Tax,Tax
+Expense,2020-10-02,19.52,MN State Income Tax,Tax
+Expense,2020-10-02,7.69,Chipotle,Food
+Expense,2020-10-02,61.82,Target,Personal
+Expense,2020-10-02,23.70,Doordash,Food
+Expense,2020-10-02,61.82,Target,Food
+Expense,2020-10-03,22.51,Etsy,Recreation
+Expense,2020-10-03,7.69,Chipotle,Food
+Expense,2020-10-04,65.96,Target,Personal
+Expense,2020-10-05,30.00,St. Thomas,Charity
+Expense,2020-10-05,35.18,Centerpoint Energy,Utilities
+Expense,2020-10-05,-89.87,Jenna Utilities,Utilities
+Expense,2020-10-05,8.46,Wendys,Food
+Expense,2020-10-05,16.12,Adobe Acrobat,Recreation
+Expense,2020-10-06,20.00,Anya Gift,Recreation
+Expense,2020-10-06,301.09,Target,Personal
+Expense,2020-10-08,33.41,Burman Coffee,Recreation
+Expense,2020-10-08,-33.41,Jenna Coffee,Recreation
+Expense,2020-10-08,9.57,Starbucks,Food
+Expense,2020-10-09,178.63,Federal Income Tax,Tax
+Expense,2020-10-09,168.87,Social Security Tax,Tax
+Expense,2020-10-09,39.49,Medicare Tax,Tax
+Expense,2020-10-09,110.00,MN State Income Tax,Tax
+Expense,2020-10-09,153.85,401k,Savings
+Expense,2020-10-09,11.85,Dental Insurance,Health/Medical
+Expense,2020-10-09,220.00,HSA,Health/Medical
+Expense,2020-10-09,122.18,Health Insurance,Health/Medical
+Expense,2020-10-09,15.23,Arbys,Food
+Expense,2020-10-10,60.85,Zoo,Recreation
+Expense,2020-10-10,199.79,Target,Food
+Expense,2020-10-10,25.36,Zoo,Food
+Expense,2020-10-11,460.62,Ace Hardware,Personal
+Expense,2020-10-11,30.00,Kyoto,Food
+Expense,2020-10-12,30.00,St. Thomas,Charity
+Expense,2020-10-12,139.36,Amazon,Recreation
+Expense,2020-10-12,-19.23,Amazon,Recreation
+Expense,2020-10-15,32.24,Adobe Acrobat,Recreation
+Expense,2020-10-15,10.74,Adobe Acrobat,Recreation
+Expense,2020-10-16,83.54,Federal Income Tax,Tax
+Expense,2020-10-16,79.39,Social Security Tax,Tax
+Expense,2020-10-16,18.57,Medicare Tax,Tax
+Expense,2020-10-16,44.02,MN State Income Tax,Tax
+Expense,2020-10-16,43.54,Lenovo,Recreation
+Expense,2020-10-16,21.49,Steam,Recreation
+Expense,2020-10-16,27.07,Pizza Hut,Food
+Expense,2020-10-16,488.58,Target,Food
+Expense,2020-10-16,34.33,Gas,Transportation
+Expense,2020-10-19,30.00,St. Thomas,Charity
+Expense,2020-10-20,12.89,Hulu,Recreation
+Expense,2020-10-20,7.53,Disney Plus,Recreation
+Expense,2020-10-20,12.30,Stamps,Tax
+Expense,2020-10-21,21.73,Target,Food
+Expense,2020-10-21,177.61,Target,Food
+Expense,2020-10-21,51.68,Walmart,Personal
+Expense,2020-10-22,30.00,CFF,Charity
+Expense,2020-10-22,53.90,Target,Food
+Expense,2020-10-22,58.29,Doordash,Food
+Expense,2020-10-23,178.63,Federal Income Tax,Tax
+Expense,2020-10-23,168.87,Social Security Tax,Tax
+Expense,2020-10-23,39.49,Medicare Tax,Tax
+Expense,2020-10-23,110.00,MN State Income Tax,Tax
+Expense,2020-10-23,153.85,401k,Savings
+Expense,2020-10-23,11.85,Dental Insurance,Health/Medical
+Expense,2020-10-23,220.00,HSA,Health/Medical
+Expense,2020-10-23,122.18,Health Insurance,Health/Medical
+Expense,2020-10-23,21.85,Home Depot,Personal
+Expense,2020-10-23,7.99,Minecraft Realms,Recreation
+Expense,2020-10-24,0.99,Icloud,Recreation
+Expense,2020-10-25,139.78,Target,Food
+Expense,2020-10-26,30.00,St. Thomas,Charity
+Expense,2020-10-26,57.00,Boyscouts,Recreation
+Expense,2020-10-27,15.01,Home Depot,Personal
+Expense,2020-10-27,27.07,Pizza Hut,Food
+Expense,2020-10-28,43.89,Target,Personal
+Expense,2020-10-30,48.98,Federal Income Tax,Tax
+Expense,2020-10-30,58.74,Social Security Tax,Tax
+Expense,2020-10-30,13.74,Medicare Tax,Tax
+Expense,2020-10-30,26.20,MN State Income Tax,Tax
+Expense,2020-10-30,207.45,Adjustment,Other
+Expense,2020-10-31,26.27,Doordash,Food
+Expense,2020-11-01,194.48,Target,Personal
+Expense,2020-11-01,61.28,Target,Personal
+Expense,2020-11-01,684.40,Home Depot,Personal
+Expense,2020-11-01,2028.86,Mortgage Payment,Home
+Expense,2020-11-01,-680.00,Jenna Rent,Home
+Expense,2020-11-01,98.20,Xcel Energy,Utilities
+Expense,2020-11-01,65.00,Century Link Internet,Utilities
+Expense,2020-11-01,88.35,State Farm Insurance,Transportation
+Expense,2020-11-01,35.13,Grove Collaborative,Personal
+Expense,2020-11-01,272.76,Target,Food
+Expense,2020-11-02,30.00,St. Thomas,Charity
+Expense,2020-11-02,16.50,BWS Membership,Utilities
+Expense,2020-11-02,8.27,Arbys,Food
+Expense,2020-11-02,150.00,Famous Footwear,Personal
+Expense,2020-11-03,125.22,City of Maple Grove,Utilities
+Expense,2020-11-03,1.47,AWS,Recreation
+Expense,2020-11-03,26.87,Apple Internet Charge,Other
+Expense,2020-11-03,30.89,Pizza Hut,Food
+Expense,2020-11-03,61.28,Target,Food
+Expense,2020-11-04,308.45,Target,Personal
+Expense,2020-11-05,26.83,Waste Management,Utilities
+Expense,2020-11-05,62.45,Centerpoint Energy,Utilities
+Expense,2020-11-05,-151.08,Jenna Utilities,Utilities
+Expense,2020-11-05,14.49,Home Depot,Personal
+Expense,2020-11-06,178.63,Federal Income Tax,Tax
+Expense,2020-11-06,168.87,Social Security Tax,Tax
+Expense,2020-11-06,39.49,Medicare Tax,Tax
+Expense,2020-11-06,110.00,MN State Income Tax,Tax
+Expense,2020-11-06,153.85,401k,Savings
+Expense,2020-11-06,11.85,Dental Insurance,Health/Medical
+Expense,2020-11-06,220.00,HSA,Health/Medical
+Expense,2020-11-06,122.18,Health Insurance,Health/Medical
+Expense,2020-11-06,97.98,Target,Personal
+Expense,2020-11-07,918.67,AOMS Wisdom Teeth,Health/Medical
+Expense,2020-11-07,168.94,AOMS Wisdom Teeth,Health/Medical
+Expense,2020-11-09,30.00,St. Thomas,Charity
+Expense,2020-11-10,138.71,Aptive,Personal
+Expense,2020-11-12,15.55,Arbys,Food
+Expense,2020-11-12,324.68,Target,Personal
+Expense,2020-11-13,32.78,Federal Income Tax,Tax
+Expense,2020-11-13,48.71,Social Security Tax,Tax
+Expense,2020-11-13,14550.00,Medicare Tax,Tax
+Expense,2020-11-13,17.54,MN State Income Tax,Tax
+Expense,2020-11-15,25.79,Pizza Hut,Food
+Expense,2020-11-15,10.74,Photoshop,Recreation
+Expense,2020-11-15,49.99,Cardinal Studios,Recreation
+Expense,2020-11-15,252.46,Target,Food
+Expense,2020-11-16,30.00,St. Thomas,Charity
+Expense,2020-11-17,30.00,CFF,Charity
+Expense,2020-11-18,118.01,Target,Food
+Expense,2020-11-19,12.89,Hulu,Recreation
+Expense,2020-11-19,13.97,Amazon Prime,Recreation
+Expense,2020-11-19,77.41,Target,Food
+Expense,2020-11-20,178.63,Federal Income Tax,Tax
+Expense,2020-11-20,168.87,Social Security Tax,Tax
+Expense,2020-11-20,39.49,Medicare Tax,Tax
+Expense,2020-11-20,110.00,MN State Income Tax,Tax
+Expense,2020-11-20,153.85,401k,Savings
+Expense,2020-11-20,11.85,Dental Insurance,Health/Medical
+Expense,2020-11-20,220.00,HSA,Health/Medical
+Expense,2020-11-20,122.18,Health Insurance,Health/Medical
+Expense,2020-11-20,62.35,Polaris,Personal
+Expense,2020-11-23,30.00,St. Thomas,Charity
+Expense,2020-11-23,16.08,Steam,Recreation
+Expense,2020-11-23,87.80,Target,Personal
+Expense,2020-11-24,49.49,Doordash,Food
+Expense,2020-11-24,26.81,Waste Management,Utilities
+Expense,2020-11-25,32.17,Steam,Recreation
+Expense,2020-11-25,0.99,Icloud,Recreation
+Expense,2020-11-26,32.17,Steam,Recreation
+Expense,2020-11-26,63.99,Raycon,Recreation
+Expense,2020-11-27,31.83,Federal Income Tax,Tax
+Expense,2020-11-27,48.11,Social Security Tax,Tax
+Expense,2020-11-27,11.25,Medicare Tax,Tax
+Expense,2020-11-27,17.03,MN State Income Tax,Tax
+Expense,2020-11-27,6.21,Mcdonalds,Food
+Expense,2020-11-28,27.60,Doordash,Food
+Expense,2020-11-28,247.00,Target,Food
+Expense,2020-11-30,30.00,St. Thomas,Charity
+Expense,2020-11-30,201.49,Adjustment,Other
+Expense,2020-11-30,21.40,Target,Food
+Expense,2020-11-30,35.83,Pizza Hut,Food
+Expense,2020-12-01,2028.86,Mortgage Payment,Home
+Expense,2020-12-01,-680.00,Jenna Rent,Home
+Expense,2020-12-01,84.73,Xcel Energy,Utilities
+Expense,2020-12-01,65.00,Century Link Internet,Utilities
+Expense,2020-12-01,63.55,State Farm Insurance,Health/Medical
+Expense,2020-12-01,74.62,State Farm Insurance,Transportation
+Expense,2020-12-02,157.10,Gap,Recreation
+Expense,2020-12-02,187.86,Lakeshore Learning,Recreation
+Expense,2020-12-02,37.91,Sootheze,Recreation
+Expense,2020-12-02,24.72,Mercari,Recreation
+Expense,2020-12-02,115.35,Target,Recreation
+Expense,2020-12-02,225.83,Amazon,Recreation
+Expense,2020-12-02,54.96,Grove Collaborative,Personal
+Expense,2020-12-02,90.49,Gap,Recreation
+Expense,2020-12-02,16.50,BWS,Utilities
+Expense,2020-12-03,38.47,Doordash,Food
+Expense,2020-12-03,22.98,Justin Birthday,Recreation
+Expense,2020-12-03,14.48,AWS,Recreation
+Expense,2020-12-04,178.63,Federal Income Tax,Tax
+Expense,2020-12-04,168.87,Social Security Tax,Tax
+Expense,2020-12-04,39.49,Medicare Tax,Tax
+Expense,2020-12-04,110.00,MN State Income Tax,Tax
+Expense,2020-12-04,153.85,401k,Savings
+Expense,2020-12-04,11.85,Dental Insurance,Health/Medical
+Expense,2020-12-04,220.00,HSA,Health/Medical
+Expense,2020-12-04,122.18,Health Insurance,Health/Medical
+Expense,2020-12-04,81.66,Centerpoint Energy,Utilities
+Expense,2020-12-04,-85.21,Jenna Utilities,Utilities
+Expense,2020-12-04,161.74,Gap,Personal
+Expense,2020-12-04,6.21,Mcdonalds,Food
+Expense,2020-12-04,300.52,Target,Food
+Expense,2020-12-07,30.00,St. Thomas,Charity
+Expense,2020-12-07,158.00,L.L.Bean,Recreation
+Expense,2020-12-09,5.38,Taco Bell,Food
+Expense,2020-12-09,8.59,Target,Food
+Expense,2020-12-09,121.59,Shutterfly,Personal
+Expense,2020-12-09,193.37,Target,Personal
+Expense,2020-12-10,35.38,Pizza Hut,Food
+Expense,2020-12-10,69.98,Popflex,Personal
+Expense,2020-12-11,60.13,Federal Income Tax,Tax
+Expense,2020-12-11,65.66,Social Security Tax,Tax
+Expense,2020-12-11,15.35,Medicare Tax,Tax
+Expense,2020-12-11,32.17,MN State Income Tax,Tax
+Expense,2020-12-12,10.72,Steam,Recreation
+Expense,2020-12-13,204.95,Target,Food
+Expense,2020-12-13,7.98,Target,Personal
+Expense,2020-12-14,30.00,St. Thomas,Charity
+Expense,2020-12-14,7.52,Raising Canes,Food
+Expense,2020-12-15,10.74,Photoshop,Recreation
+Expense,2020-12-15,35.83,Pizza Hut,Food
+Expense,2020-12-16,199.26,Target,Food
+Expense,2020-12-16,7.98,Target,Personal
+Expense,2020-12-17,15.04,Netflix,Recreation
+Expense,2020-12-17,30.00,CFF,Charity
+Expense,2020-12-18,178.63,Federal Income Tax,Tax
+Expense,2020-12-18,168.87,Social Security Tax,Tax
+Expense,2020-12-18,39.49,Medicare Tax,Tax
+Expense,2020-12-18,110.00,MN State Income Tax,Tax
+Expense,2020-12-18,153.85,401k,Savings
+Expense,2020-12-18,11.85,Dental Insurance,Health/Medical
+Expense,2020-12-18,220.00,HSA,Health/Medical
+Expense,2020-12-18,122.18,Health Insurance,Health/Medical
+Expense,2020-12-18,7.52,Raising Canes,Food
+Expense,2020-12-18,27.40,Noodles,Food
+Expense,2020-12-18,1.00,Apple Internet Charge,Other
+Expense,2020-12-18,1.97,Tabs,Transportation
+Expense,2020-12-18,79.25,Tabs,Transportation
+Expense,2020-12-19,12.89,Hulu,Recreation
+Expense,2020-12-19,7.53,Disney Plus,Recreation
+Expense,2020-12-19,7.99,Minecraft Realms,Recreation
+Expense,2020-12-19,13.97,Amazon Prime,Recreation
+Expense,2020-12-21,30.00,St. Thomas,Charity
+Expense,2020-12-22,4.06,Target,Personal
+Expense,2020-12-22,224.56,Target,Food
+Expense,2020-12-24,0.99,Icloud,Recreation
+Expense,2020-12-24,-127.72,Capital One Credit,Recreation
+Expense,2020-12-25,40.23,Federal Income Tax,Tax
+Expense,2020-12-25,53.32,Social Security Tax,Tax
+Expense,2020-12-25,12.47,Medicare Tax,Tax
+Expense,2020-12-25,21.52,MN State Income Tax,Tax
+Expense,2020-12-25,36.52,Gas,Transportation
+Expense,2020-12-26,251.74,Target,Food
+Expense,2020-12-26,8.16,Target,Food
+Expense,2020-12-26,11.77,Chipotle,Food
+Expense,2020-12-27,21.49,Origin,Recreation
+Expense,2020-12-27,36.44,Steam,Recreation
+Expense,2020-12-28,30.00,St. Thomas,Charity
+Expense,2020-12-31,-31.48,Adjustment,Other
+Expense,2020-12-30,21.04,Target,Personal
+Expense,2020-12-30,200.00,Target,Personal
+Income,2020-01-09,650.00,Blu Dot,Other
+Income,2020-01-10,2600.00,Rockler,Salary
+Income,2020-01-23,6.84,Interest,Other
+Income,2020-01-24,4555.20,Rockler,Salary
+Income,2020-01-31,3076.93,Polaris,Salary
+Income,2020-02-06,1225.00,Blu Dot,Other
+Income,2020-02-07,776.50,Rockler,Other
+Income,2020-02-08,35.00,Michael Perry,Chess
+Income,2020-02-09,60.00,Griffin Schmidt,Chess
+Income,2020-02-14,3076.93,Polaris,Salary
+Income,2020-02-16,40.00,Emmanuel Kaul,Other
+Income,2020-02-16,60.00,Griffin Schmidt,Chess
+Income,2020-02-20,50.00,Emmanuel Kaul,Chess
+Income,2020-02-21,824.00,Rockler,Other
+Income,2020-02-23,40.00,Emmanuel Kaul,Other
+Income,2020-02-23,60.00,Griffin Schmidt,Chess
+Income,2020-02-23,6.85,Interest,Other
+Income,2020-02-28,3076.93,Polaris,Salary
+Income,2020-02-29,35.00,Michael Perry,Chess
+Income,2020-03-06,852.00,Rockler,Other
+Income,2020-03-07,35.00,Michael Perry,Chess
+Income,2020-03-08,60.00,Griffin Schmidt,Chess
+Income,2020-03-08,40.00,Emmanuel Kaul,Other
+Income,2020-03-12,50.00,Emmanuel Kaul,Chess
+Income,2020-03-13,3076.93,Polaris,Salary
+Income,2020-03-13,40.00,Emmanuel Kaul,Other
+Income,2020-03-14,35.00,Michael Perry,Chess
+Income,2020-03-20,759.00,Rockler,Other
+Income,2020-03-20,50.00,Emmanuel Kaul,Chess
+Income,2020-03-22,50.00,Griffin Schmidt,Chess
+Income,2020-03-27,3076.93,Polaris,Salary
+Income,2020-03-29,50.00,Manjusri Sangupta,Chess
+Income,2020-03-29,40.00,Emmanuel Kaul,Other
+Income,2020-03-29,50.00,Griffin Schmidt,Chess
+Income,2020-04-03,526.50,Rockler,Other
+Income,2020-04-10,3076.93,Polaris,Salary
+Income,2020-04-17,495.00,Rockler,Other
+Income,2020-04-18,50.00,Emmanuel Kaul,Chess
+Income,2020-04-20,50.00,Emmanuel Kaul,Other
+Income,2020-04-24,3076.93,Polaris,Salary
+Income,2020-04-24,50.00,Emmanuel Kaul,Chess
+Income,2020-04-26,40.00,Emmanuel Kaul,Other
+Income,2020-04-26,50.00,Manjusri Sangupta,Chess
+Income,2020-05-01,770.50,Rockler,Other
+Income,2020-05-01,50.00,Emmanuel Kaul,Chess
+Income,2020-05-03,40.00,Emmanuel Kaul,Other
+Income,2020-05-03,50.00,Manjusri Sangupta,Chess
+Income,2020-05-08,3076.93,Polaris,Salary
+Income,2020-05-08,50.00,Emmanuel Kaul,Chess
+Income,2020-05-15,770.00,Rockler,Other
+Income,2020-05-16,50.00,Emmanuel Kaul,Chess
+Income,2020-05-17,40.00,Emmanuel Kaul,Other
+Income,2020-05-17,50.00,Manjusri Sangupta,Chess
+Income,2020-05-22,3076.93,Polaris,Salary
+Income,2020-05-24,40.00,Emmanuel Kaul,Other
+Income,2020-05-25,2900.00,Economic Impact,Other
+Income,2020-05-29,1110.00,Rockler,Other
+Income,2020-05-30,50.00,Emmanuel Kaul,Chess
+Income,2020-05-31,40.00,Emmanuel Kaul,Other
+Income,2020-06-05,3076.93,Polaris,Salary
+Income,2020-06-07,40.00,Emmanuel Kaul,Other
+Income,2020-06-11,40.00,Emmanuel Kaul,Other
+Income,2020-06-12,731.00,Rockler,Other
+Income,2020-06-12,50.00,Emmanuel Kaul,Chess
+Income,2020-06-14,40.00,Emmanuel Kaul,Other
+Income,2020-06-19,1538.46,Polaris,Salary
+Income,2020-06-19,50.00,Emmanuel Kaul,Chess
+Income,2020-06-25,40.00,Emmanuel Kaul,Other
+Income,2020-06-26,2347.00,Rockler,Other
+Income,2020-06-26,50.00,Emmanuel Kaul,Chess
+Income,2020-07-01,1538.46,Polaris,Salary
+Income,2020-07-03,50.00,Emmanuel Kaul,Chess
+Income,2020-07-05,40.00,Emmanuel Kaul,Other
+Income,2020-07-05,50.00,Manjusri Sangupta,Chess
+Income,2020-07-10,2360.00,Rockler,Other
+Income,2020-07-10,50.00,Emmanuel Kaul,Chess
+Income,2020-07-12,40.00,Emmanuel Kaul,Other
+Income,2020-07-17,3076.93,Polaris,Salary
+Income,2020-07-17,40.00,Emmanuel Kaul,Chess
+Income,2020-07-19,40.00,Emmanuel Kaul,Other
+Income,2020-07-24,389.00,Rockler,Other
+Income,2020-07-26,40.00,Emmanuel Kaul,Other
+Income,2020-07-31,3076.93,Polaris,Salary
+Income,2020-07-31,40.00,Emmanuel Kaul,Chess
+Income,2020-08-02,40.00,Emmanuel Kaul,Other
+Income,2020-08-05,30.00,Samuel Heinemann,Chess
+Income,2020-08-07,40.00,Emmanuel Kaul,Chess
+Income,2020-08-07,1337.00,Rockler,Other
+Income,2020-08-09,40.00,Emmanuel Kaul,Other
+Income,2020-08-12,30.00,Samuel Heinemann,Chess
+Income,2020-08-14,3076.93,Polaris,Salary
+Income,2020-08-14,40.00,Emmanuel Kaul,Chess
+Income,2020-08-16,40.00,Emmanuel Kaul,Other
+Income,2020-08-19,30.00,Samuel Heinemann,Chess
+Income,2020-08-21,885.00,Rockler,Other
+Income,2020-08-21,40.00,Emmanuel Kaul,Chess
+Income,2020-08-23,40.00,Emmanuel Kaul,Other
+Income,2020-08-23,40.00,Manjusri Sangupta,Chess
+Income,2020-08-26,30.00,Samuel Heinemann,Chess
+Income,2020-08-27,40.00,Emmanuel Kaul,Chess
+Income,2020-08-28,3076.93,Polaris,Salary
+Income,2020-09-02,30.00,Samuel Heinemann,Chess
+Income,2020-09-04,898.50,Rockler,Other
+Income,2020-09-04,40.00,Emmanuel Kaul,Chess
+Income,2020-09-06,40.00,Emmanuel Kaul,Other
+Income,2020-09-09,30.00,Samuel Heinemann,Chess
+Income,2020-09-11,3076.93,Polaris,Salary
+Income,2020-09-16,30.00,Samuel Heinemann,Chess
+Income,2020-09-18,838.00,Rockler,Other
+Income,2020-09-18,40.00,Emmanuel Kaul,Chess
+Income,2020-09-20,40.00,Emmanuel Kaul,Other
+Income,2020-09-23,30.00,Samuel Heinemann,Chess
+Income,2020-09-25,3076.93,Polaris,Salary
+Income,2020-09-25,40.00,Emmanuel Kaul,Chess
+Income,2020-09-27,40.00,Emmanuel Kaul,Other
+Income,2020-10-02,822.50,Rockler,Other
+Income,2020-10-02,40.00,Emmanuel Kaul,Chess
+Income,2020-10-07,30.00,Samuel Heinemann,Chess
+Income,2020-10-09,3076.93,Polaris,Salary
+Income,2020-10-09,40.00,Emmanuel Kaul,Chess
+Income,2020-10-11,40.00,Emmanuel Kaul,Other
+Income,2020-10-14,30.00,Samuel Heinemann,Chess
+Income,2020-10-16,1280.50,Rockler,Other
+Income,2020-10-21,30.00,Samuel Heinemann,Chess
+Income,2020-10-23,3076.93,Polaris,Salary
+Income,2020-10-23,40.00,Emmanuel Kaul,Chess
+Income,2020-10-25,40.00,Emmanuel Kaul,Other
+Income,2020-10-28,30.00,Samuel Heinemann,Chess
+Income,2020-10-30,947.50,Rockler,Other
+Income,2020-10-30,40.00,Emmanuel Kaul,Chess
+Income,2020-11-01,40.00,Emmanuel Kaul,Other
+Income,2020-11-04,30.00,Samuel Heinemann,Chess
+Income,2020-11-06,3076.93,Polaris,Salary
+Income,2020-11-13,785.50,Rockler,Other
+Income,2020-11-14,40.00,Emmanuel Kaul,Chess
+Income,2020-11-14,40.00,Manjusri Sangupta,Chess
+Income,2020-11-15,40.00,Emmanuel Kaul,Other
+Income,2020-11-18,30.00,Samuel Heinemann,Chess
+Income,2020-11-20,3076.93,Polaris,Salary
+Income,2020-11-20,40.00,Emmanuel Kaul,Chess
+Income,2020-11-22,40.00,Emmanuel Kaul,Other
+Income,2020-11-25,30.00,Samuel Heinemann,Chess
+Income,2020-11-25,40.00,Manjusri Sangupta,Chess
+Income,2020-11-27,776.00,Rockler,Other
+Income,2020-11-27,40.00,Emmanuel Kaul,Chess
+Income,2020-11-29,40.00,Emmanuel Kaul,Other
+Income,2020-12-02,30.00,Samuel Heinemann,Chess
+Income,2020-12-04,3076.93,Polaris,Salary
+Income,2020-12-04,40.00,Emmanuel Kaul,Chess
+Income,2020-12-06,40.00,Emmanuel Kaul,Other
+Income,2020-12-11,1059.00,Rockler,Other
+Income,2020-12-11,40.00,Emmanuel Kaul,Chess
+Income,2020-12-13,40.00,Emmanuel Kaul,Other
+Income,2020-12-18,3076.93,Polaris,Salary
+Income,2020-12-18,40.00,Emmanuel Kaul,Chess
+Income,2020-12-20,40.00,Emmanuel Kaul,Other
+Income,2020-12-22,40.00,Manjusri Sangupta,Chess
+Income,2020-12-22,40.00,Emmanuel Kaul,Other
+Income,2020-12-25,860.00,Rockler,Other
+Income,2020-12-27,40.00,Manjusri Sangupta,Chess
+Income,2020-12-27,200.00,Christmas Cash,Gifts

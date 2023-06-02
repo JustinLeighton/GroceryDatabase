@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<!-- Load CSS -->
+	{% load static %}
+	<link rel="stylesheet" type="text/css" href="{% static 'index/main.css' %}">
+
+	<title>BurrowDB</title>
+</head>
+
+<body style="background-color:#ddd;">
+
+	<center>
+		<h1>BurrowDB</h1>
+		{% load static %} 
+		<img src="{% static 'index/logo.png' %}", width="100px" height="100px"/>
+		
+		<p>
+			<a href="/inventory">Inventory</a><br /><br />
+			<a href="/calendar">Calendar</a><br /><br />
+			<a href="/finance">Finance</a><br /><br />
+		</p>
+	</center>
+</body>
+
+
+</html>
